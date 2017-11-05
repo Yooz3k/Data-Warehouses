@@ -1,0 +1,61 @@
+﻿<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+
+  <xsd:element name ="Dziennik">
+    <xsd:complexType>
+      <xsd:sequence>
+        <xsd:element name="Zamowienia">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="Zamowienie" maxOccurs="unbounded">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element name="ISAN">
+                      <xsd:simpleType>
+                        <xsd:restriction base="xsd:string">
+                          <xsd:pattern value="[0-9A-F]{4}-[0-9A-F]{4}-[0-9A-F]{4}-[0-9A-F]{4}-[0-9A-Z]-[0-9A-F]{4}-[0-9A-F]{4}-[0-9A-Z]"/>
+                        </xsd:restriction>
+                      </xsd:simpleType>
+                    </xsd:element>
+                    <xsd:element name="Cena" type="xsd:decimal"/>
+                    <xsd:element name="CzyRabat" type="xsd:boolean"/>
+                    <xsd:element name="Status" type="StringZAtrybutemData"/>
+                    <xsd:element name="WaznoscLicencji" type="xsd:integer"/>
+                    <xsd:element name="Uwagi" type="xsd:string"/>
+                  </xsd:sequence>
+                  <xsd:attribute name="ID" type="xsd:integer" use="required"/>
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+          </xsd:complexType>
+          <xsd:unique name="UnikatoweZamowienie">
+            <xsd:selector xpath="Zamowienie"/>
+            <xsd:field xpath="@ID"/>
+          </xsd:unique>
+        </xsd:element>
+      </xsd:sequence>
+    </xsd:complexType>
+  </xsd:element>
+
+  <xsd:complexType name="StringZAtrybutemData">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string">
+        <xsd:attribute name="Data" type="xsd:date"/>
+      </xsd:extension>
+    </xsd:simpleContent>
+  </xsd:complexType>
+
+  <xsd:simpleType name="String20Typ">
+    <xsd:restriction base="xsd:string">
+      <xsd:minLength value="1"/>
+      <xsd:maxLength value="20"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+  <xsd:simpleType name="String40Typ">
+    <xsd:restriction base="xsd:string">
+      <xsd:minLength value="1"/>
+      <xsd:maxLength value="40"/>
+    </xsd:restriction>
+  </xsd:simpleType>
+
+</xsd:schema>

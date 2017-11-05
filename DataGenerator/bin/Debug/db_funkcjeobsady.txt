@@ -1,0 +1,7 @@
+1~Re¿yser
+2~Monta¿ysta
+3~Aktor g³ówny
+4~Aktor drugoplanowy
+5~Operator kamery
+6~Scenarzysta
+7~DŸwiêkowiec 

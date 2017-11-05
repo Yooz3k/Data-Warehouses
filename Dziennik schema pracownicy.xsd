@@ -1,0 +1,20 @@
+        <xsd:element name="Pracownicy">
+          <xsd:complexType>
+            <xsd:sequence>
+              <xsd:element name="Pracownik">
+                <xsd:complexType>
+                  <xsd:sequence>
+                    <xsd:element name="Imie" type="String20Typ"/>
+                    <xsd:element name="Nazwisko" type="String40Typ"/>
+                    <xsd:element name="Stanowisko" type="StringZAtrybutemData"/>
+                  </xsd:sequence>
+                  <xsd:attribute name="ID" type="xsd:integer" use="required"/>
+                </xsd:complexType>
+              </xsd:element>
+            </xsd:sequence>
+          </xsd:complexType>
+          <xsd:unique name="UnikatowyPracownik">
+            <xsd:selector xpath="Pracownik"/>
+            <xsd:field xpath="@ID"/>
+          </xsd:unique>
+        </xsd:element>

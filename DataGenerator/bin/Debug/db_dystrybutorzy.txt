@@ -1,0 +1,88 @@
+1~AQS~+39027273657~W³ochy~Turyn Via Appia 17
+2~20th Century Fox~+33063858454~Francja~Bordeaux Rue de la Glaciere 16
+3~Alibaba Pictures~+1497531996~USA~Chicago N Kennedy Ave 32
+4~Anchor Bay Entertainment~+61350817811~Australia~Melbourne Canterbury Rd 139
+5~Antidote Films~+61769724598~Australia~Brisbane Stephenson St 169
+6~Anywhere Road~+61524211231~Australia~Melbourne Ricciardo St 76
+7~Artificial Eye~+39119422332~W³ochy~Mediolan Via Carlo Bazzi 32
+8~Associated Artists Productions~+39667490871~W³ochy~Palermo Via Santa Sofia 77
+9~Astor Pictures~+33624668403~Francja~Montpellier Rue Bobillot 94
+10~Avco Embassy Pictures~+1860327184~Kanada~Montreal Davenport Rd 77
+11~Axiom Films~+61043952576~Australia~Brisbane Palmer St 199
+12~Biograph Studios~+48872326052~Polska~Bydgoszcz ul. Konopnickiej 51
+13~Bioscop~+44976168067~Wielka Brytania~Sheffield St Philip's Rd 56
+14~Bontonfilm~+39796152809~W³ochy~Palermo Via Carlo Bazzi 178
+15~Brain Damage Films~+1964816023~USA~Dallas W Pershing Rd 81
+16~Brightlight Pictures~+420045185939~Czechy~Praga Zborovska 86
+17~Buena Vista International~+48502041028~Polska~Malbork ul. Sikorskiego 140
+18~Cannon Releasing Corp.~+1036425611~Kanada~Toronto Finch Ave 150
+19~Cinema International Corporation~+1910055841~USA~Dallas W Wilson Rd 107
+20~Cinemart~+48942103205~Polska~Warszawa ul. Pi³sudskiego 58
+21~Columbia Pictures~+61435367291~Australia~Brisbane Alexandra Ave 166
+22~Constantin Film~+39702826195~W³ochy~Mediolan Via Romea 169
+23~Contender Entertainment Group~+44144453571~Wielka Brytania~Durham Norfolk St 53
+24~Diffusion Pictures~+1203750326~Kanada~Quebec City Moore Ave 82
+25~DMG Entertainment~+44038806246~Wielka Brytania~Southampton Hawkins Rd 77
+26~Dogwoof Pictures~+420720553083~Czechy~Brno Simkova 73
+27~Eagle Lion Classics Inc.~+48860426712~Polska~Szczecin ul. Warszawska 156
+28~Elevation Pictures~+44250639912~Wielka Brytania~Southampton Mill Rd 75
+29~Embassy Pictures~+49455733027~Niemcy~Berlin Goethestrasse 133
+30~Entertainment Film Distributors~+61702502320~Australia~Sydney Pickles St 102
+31~Entertainment One~+1676659451~Kanada~Calgary Moore Ave 140
+32~Eros International~+49510596481~Niemcy~Stuttgart Bismarcksstrasse 175
+33~Eternal Pictures~+39874417067~W³ochy~Udine Via Montesanto 19
+34~Fairway Film Alliance~+1479586017~USA~Seattle S California Ave 14
+35~Falcon~+49128487840~Niemcy~Monachium Bismarcksstrasse 104
+36~Fantasy Pictures~+420842784481~Czechy~Praga Pospisilova 14
+37~Film Distribution Artcam~+420379153955~Czechy~Hradec Kralove Dvorska 23
+38~Film Europe~+420926498877~Czechy~O³omuniec Stefanikova 95
+39~Film Producers Guild~+33706059873~Francja~Strasburg Rue Bobillot 61
+40~Fortissimo Films~+49774375434~Niemcy~Stuttgart Wagnersstrasse 37
+41~Fox Distribution Company~+49073520126~Niemcy~Frankfurt Berlinerstrasse 153
+42~FremantleMedia~+39757501480~W³ochy~Udine Via Lorenteggio 53
+43~General Film Distributors~+49359293279~Niemcy~Frankfurt Bismarcksstrasse 161
+44~Hollywood C. E.~+48479175747~Polska~Poznañ ul. Chrobrego 190
+45~Huaxia Film Distribution~+39129060146~W³ochy~Neapol Via Enrico Mattei 13
+46~Huayi Brothers~+33625843716~Francja~Marsylia Rue Lagrange 5
+47~Icon Film Distribution~+420763662281~Czechy~Hradec Kralove Prazska 66
+48~Independent Films~+39365826779~W³ochy~Bari Via Enrico Mattei 82
+49~Intersonic~+1229551132~Kanada~Quebec City Finch Ave 90
+50~Le Vision Pictures~+1011437900~Kanada~Montreal Finch Ave 189
+51~Leap Frog Films~+48215814710~Polska~Szczecin ul. Chrobrego 100
+52~Lenfilm~+48671124825~Polska~Malbork ul. Reymonta 78
+53~Lionsgate International~+61193223708~Australia~Adelaide Stephenson St 28
+54~Lumiton~+39627002790~W³ochy~Bari Via Carlo Bazzi 62
+55~Lux Film~+49092659302~Niemcy~Lipsk Wagnersstrasse 158
+56~Madman Entertainment~+420593873798~Czechy~O³omuniec Simkova 161
+57~Magic Box~+33371184342~Francja~Lyon Rue Censier 110
+58~Metacinema~+420802349226~Czechy~Hradec Kralove Hradecka 98
+59~Metro-Goldwyn-Mayer (MGM)~+34628237196~Hiszpania~Grenada Calle Torre de Romo 72
+60~Metropolitan Filmexport~+61343324625~Australia~Newcastle Pickles St 191
+61~Mongrel Media~+61522695848~Australia~Brisbane Alexandra Ave 30
+62~National Film Archive~+49005144246~Niemcy~Stuttgart Goethestrasse 64
+63~Nevafilm Emotion~+34160052722~Hiszpania~Murcja Av. de la Fama 118
+64~Palace Films and Cinemas~+34224527394~Hiszpania~Malaga Calle Campo 139
+65~Paramount Pictures~+33216943334~Francja~Montpellier Rue Bonaparte 45
+66~Polybona Films~+49320818271~Niemcy~Hamburg Berlinerstrasse 116
+67~Rank Film Distributors~+48196713630~Polska~Malbork ul. Sikorskiego 109
+68~Redbus Film Distribution~+33353801774~Francja~Bordeaux Rue Bonaparte 95
+69~Revolver Entertainment~+48814016882~Polska~Bydgoszcz ul. Konopnickiej 79
+70~RKO Radio Pictures~+1002264565~Kanada~Ottawa Lawrance Ave 14
+71~Roadshow Films~+61838688174~Australia~Sydney Canterbury Rd 184
+72~Sandrew Metronome~+33946017100~Francja~Dijon Rue Bobillot 76
+73~Silverbird Film Distribution~+61397341727~Australia~Adelaide Pickles St 80
+74~SND Films~+33853654335~Francja~Pary¿ Rue Censier 110
+75~Soda Pictures~+49618863444~Niemcy~Berlin Bismarcksstrasse 101
+76~Sonet Film~+44721185468~Wielka Brytania~Londyn Norfolk St 27
+77~Sony Pictures~+61080886894~Australia~Brisbane Victoria Ave 38
+78~SPEEDfilm~+61610323536~Australia~Sydney Murphy St 187
+79~Tartan Films~+49508742542~Niemcy~Monachium Erstestrasse 49
+80~Teletoon~+33321257298~Francja~Tuluza Boulevard Arago 74
+81~Titan View~+1378378450~USA~Dallas S Washington Ave 76
+82~Total HelpArt T.H.A.~+34135457799~Hiszpania~Madryt Av. de la Nora 46
+83~United Artists Corp.~+1412673209~USA~Los Angeles W Roosevelt Rd 116
+84~United International Pictures~+420417231636~Czechy~O³omuniec Prazska 166
+85~Universal Pictures~+34874346014~Hiszpania~Walencja Av. de Santiago 148
+86~Walt Disney Studios Motion Pictures~+1631268572~USA~San Francisco W Roosevelt Rd 26
+87~Wanda Media~+33072728295~Francja~Nicea Boulevard Arago 193
+88~Warner Bros.~+33986084824~Francja~Bordeaux Rue Censier 62

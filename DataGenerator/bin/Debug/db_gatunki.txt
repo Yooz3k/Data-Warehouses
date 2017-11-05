@@ -1,0 +1,34 @@
+1~Dramat
+2~Akcja
+3~Animacja
+4~Sci-Fi
+5~Melodramat
+6~Dramat historyczny
+7~Komedia
+8~Fantasy
+9~Thriller
+10~Gangsterski
+11~Biograficzny
+12~Surrealistyczny
+13~Krymina³
+14~Wojenny
+15~Horror
+16~Western
+17~Familijny
+18~Sensacyjny
+19~Przygodowy
+20~Komedia kryminalna
+21~Komedia rom.
+22~Komedia obycz.
+23~Katastroficzny
+24~Dramat obyczajowy
+25~Romans
+26~Musical
+27~Dramat s¹dowy
+28~Obyczajowy
+29~Kostiumowy
+30~Czarna komedia
+31~Historyczny
+32~Dreszczowiec
+33~Erotyczny
+34~Dramat spo³eczny

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Dziennik>
+  <Zamowienia>
+    <Zamowienie ID="1">
+      <ISAN>0000-0000-5343-7465-W-0000-0000-P</ISAN>
+      <Cena>22.90</Cena>
+      <CzyRabat>false</CzyRabat>
+      <Status Data="2018-05-18">Zrealizowane</Status>
+      <WaznoscLicencji>2019-05-18</WaznoscLicencji>
+      <Uwagi>Brak</Uwagi>
+      <PowodAnulowania></PowodAnulowania>
+    </Zamowienie>
+  </Zamowienia>
+  <Pracownicy>
+    <Pracownik ID="1">
+      <Imie>Jan</Imie>
+      <Nazwisko>Kowalski</Nazwisko>
+      <Stanowisko Data="2018-05-18">Wymiatacz</Stanowisko>
+    </Pracownik>
+  </Pracownicy>
+</Dziennik>

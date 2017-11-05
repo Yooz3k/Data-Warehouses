@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGenerator", "DataGenerator.csproj", "{795603B1-8DA2-4E53-9FA6-D61135940522}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{77D76E22-8D81-47CA-A15D-85CAAE7771E6}"
+	ProjectSection(SolutionItems) = preProject
+		..\Create.sql = ..\Create.sql
+		..\Delete.sql = ..\Delete.sql
+		..\Dziennik.xml = ..\Dziennik.xml
+		..\Dziennik.xsd = ..\Dziennik.xsd
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TxtDataFiles", "TxtDataFiles", "{A74D6AAF-2B91-4047-97BB-76A884D6B44C}"
+	ProjectSection(SolutionItems) = preProject
+		bin\Debug\czlonkowie_obsady.txt = bin\Debug\czlonkowie_obsady.txt
+		bin\Debug\filmy.txt = bin\Debug\filmy.txt
+		bin\Debug\funkcje_obsady.txt = bin\Debug\funkcje_obsady.txt
+		bin\Debug\imiona.txt = bin\Debug\imiona.txt
+		bin\Debug\nazwiska.txt = bin\Debug\nazwiska.txt
+		bin\Debug\tlumaczenia.txt = bin\Debug\tlumaczenia.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795603B1-8DA2-4E53-9FA6-D61135940522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795603B1-8DA2-4E53-9FA6-D61135940522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795603B1-8DA2-4E53-9FA6-D61135940522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795603B1-8DA2-4E53-9FA6-D61135940522}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

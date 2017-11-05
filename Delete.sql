@@ -1,0 +1,9 @@
+DROP TABLE Cz³onkostwo;
+DROP TABLE Cz³onkowieObsady;
+DROP TABLE Seanse;
+DROP TABLE Sale;
+DROP TABLE Filmy;
+DROP TABLE Dystrybutorzy;
+DROP TABLE FunkcjeObsady;
+DROP TABLE Gatunki;
+DROP TABLE Spolszczenia;

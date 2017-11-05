@@ -1,0 +1,2030 @@
+The Green Mile;1999;188;Dramat;USA
+Forrest Gump;1994;142;Dramat;USA
+The Shawshank Redemption;1994;142;Dramat;USA
+The Matrix;1999;136;Akcja;Australia
+Léon;1994;110;Dramat;Francja
+Shrek;2001;90;Animacja;USA
+Avatar;2009;162;Sci-Fi;USA
+Titanic;1997;194;Melodramat;USA
+Gladiator;2000;155;Dramat historyczny;USA
+The Hangover;2009;100;Komedia;Niemcy
+Pirates of the Caribbean: The Curse of the Black Pearl;2003;143;Fantasy;USA
+The Lord of the Rings: The Fellowship of the Ring;2001;178;Fantasy;Nowa Zelandia
+Requiem for a Dream;2000;102;Dramat;USA
+The Silence of the Lambs;1991;118;Thriller;USA
+Seksmisja;1983;116;Komedia;Polska
+Saving Private Ryan;1998;170;Dramat;USA
+The Sixth Sense;1999;107;Thriller;USA
+Pulp Fiction;1994;154;Gangsterski;USA
+Intouchables;2011;112;Biograficzny;Francja
+Slumdog Millionaire;2008;120;Dramat;Wielka Brytania
+Dzień świra;2002;93;Dramat;Polska
+Fight Club;1999;139;Thriller;Niemcy
+The Da Vinci Code;2006;149;Thriller;Francja
+Cast Away;2000;143;Dramat;USA
+The Pianist;2002;150;Biograficzny;Francja
+Inception;2010;148;Surrealistyczny;USA
+Se7en;1995;127;Kryminał;USA
+Inglourious Basterds;2009;153;Wojenny;Niemcy
+The Lion King;1994;89;Animacja;USA
+Shutter Island;2010;138;Dramat;USA
+The Godfather;1972;175;Dramat;USA
+American Beauty;1999;122;Dramat;USA
+The Lord of the Rings: The Return of the King;2003;201;Fantasy;Nowa Zelandia
+The Butterfly Effect;2004;113;Thriller;Kanada
+The Truman Show;1998;103;Dramat;USA
+The Dark Knight;2008;152;Akcja;USA
+Bruce Almighty;2003;101;Fantasy;USA
+Ice Age;2002;81;Animacja;USA
+The Curious Case of Benjamin Button;2008;166;Fantasy;USA
+A Beautiful Mind;2001;135;Biograficzny;USA
+The Lord of the Rings: The Two Towers;2002;179;Fantasy;Nowa Zelandia
+Seven Pounds;2008;123;Dramat;USA
+I Am Legend;2007;101;Horror;Australia
+Django Unchained;2012;165;Western;USA
+Kiler;1997;104;Komedia;Polska
+Sherlock Holmes;2009;128;Kryminał;Niemcy
+Mr. & Mrs. Smith;2005;120;Akcja;USA
+The Devil's Advocate;1997;144;Thriller;Niemcy
+Gran Torino;2008;116;Dramat;Niemcy
+Pirates of the Caribbean: Dead Man's Chest;2006;150;Fantasy;USA
+Chłopaki nie płaczą;2000;96;Komedia;Polska
+The Wolf of Wall Street;2013;179;Biograficzny;USA
+Home Alone;1990;103;Familijny;USA
+Harry Potter and the Sorcerer's Stone;2001;152;Familijny;USA
+Edward Scissorhands;1990;105;Dramat;USA
+300;2006;117;Dramat historyczny;USA
+Braveheart;1995;177;Dramat historyczny;USA
+Madagascar;2005;86;Animacja;USA
+The Shining;1980;146;Horror;USA
+Harry Potter and the Prisoner of Azkaban;2004;141;Familijny;USA
+Harry Potter and the Goblet of Fire;2005;157;Familijny;USA
+The Hobbit: An Unexpected Journey;2012;169;Fantasy;Nowa Zelandia
+Pirates of the Caribbean: At World's End;2007;169;Fantasy;USA
+One Flew Over the Cuckoo's Nest;1975;133;Dramat;USA
+American Pie;1999;95;Komedia;USA
+Hooligans;2005;109;Dramat;USA
+The Prestige;2006;130;Dramat;USA
+The Devil Wears Prada;2006;109;Dramat;USA
+The Boy in the Striped Pyjamas;2008;93;Dramat;USA
+Kill Bill: Vol. 1;2003;111;Thriller;USA
+Alice in Wonderland;2010;108;Familijny;USA
+Hannibal;2001;131;Thriller;USA
+Schindler's List;1993;195;Dramat;USA
+Iron Man;2008;126;Akcja;USA
+Taken;2008;93;Sensacyjny;Francja
+The Hunger Games;2012;142;Akcja;USA
+Black Swan;2010;108;Dramat;USA
+Scent of a Woman;1992;157;Dramat;USA
+Batman Begins;2005;140;Akcja;USA
+Troy;2004;163;Dramat historyczny;USA
+The Notebook;2004;123;Melodramat;USA
+K-PAX;2001;120;Dramat;Niemcy
+Charlie and the Chocolate Factory;2005;115;Familijny;USA
+Miś;1980;111;Komedia;Polska
+Back to the Future;1985;116;Komedia;USA
+Spider-Man;2002;121;Akcja;USA
+Jurassic Park;1993;127;Przygodowy;USA
+The Departed;2006;152;Kryminał;Hongkong
+Twilight;2008;122;Horror;USA
+Limitless;2011;105;Thriller;USA
+Perfume: The Story of a Murderer;2006;147;Dramat;Francja
+Harry Potter and the Deathly Hallows: Part 2;2011;130;Familijny;USA
+Lord of War;2005;122;Dramat;Francja
+Lejdis;2008;136;Komedia;Polska
+The King's Speech;2010;118;Biograficzny;Australia
+Interstellar;2014;169;Sci-Fi;Kanada
+The Fifth Element;1997;126;Akcja;Francja
+Ace Ventura: Pet Detective;1994;86;Komedia;USA
+Now You See Me;2013;115;Kryminał;Francja
+Black Hawk Down;2001;144;Dramat;USA
+The Girl with the Dragon Tattoo;2011;158;Kryminał;Norwegia
+The Hangover Part II;2011;102;Komedia;USA
+Star Wars;1977;121;Przygodowy;USA
+Transformers;2007;144;Akcja;USA
+Interview with the Vampire: The Vampire Chronicles;1994;123;Dramat;USA
+The Mask;1994;101;Fantasy;USA
+Dead Poets Society;1989;128;Dramat;USA
+The Hobbit: The Desolation of Smaug;2013;161;Fantasy;Nowa Zelandia
+American History X;1998;119;Dramat;USA
+Bogowie;2014;121;Biograficzny;Polska
+Sala samobójców;2011;117;Animacja;Polska
+What's Eating Gilbert Grape;1993;118;Dramat;USA
+Dumb & Dumber;1994;106;Komedia;USA
+Harry Potter and the Order of the Phoenix;2007;138;Familijny;USA
+The Avengers;2012;142;Akcja;USA
+Harry Potter and the Deathly Hallows: Part 1;2010;146;Familijny;USA
+Catch Me If You Can;2002;141;Komedia kryminalna;Kanada
+Testosteron;2007;119;Komedia;Polska
+Pirates of the Caribbean: On Stranger Tides;2011;137;Fantasy;USA
+The Illusionist;2006;110;Fantasy;Czechy
+The Dark Knight Rises;2012;165;Akcja;USA
+Harry Potter and the Chamber of Secrets;2002;161;Familijny;Niemcy
+Philadelphia;1993;125;Dramat;USA
+Deadpool;2016;108;Komedia;Kanada
+V for Vendetta;2005;132;Thriller;Niemcy
+Silver Linings Playbook;2012;122;Dramat;USA
+The Fast and the Furious;2001;106;Akcja;Niemcy
+Shrek 2;2004;92;Animacja;USA
+Harry Potter and the Half-Blood Prince;2009;153;Familijny;USA
+Star Wars: Episode V - The Empire Strikes Back;1980;124;Przygodowy;USA
+Men in Black;1997;98;Komedia;USA
+WALL·E;2008;98;Animacja;USA
+Goodfellas;1990;146;Dramat;USA
+The Transporter;2002;92;Akcja;Francja
+Alien;1979;117;Horror;USA
+Bridget Jones's Diary;2001;97;Komedia rom.;Francja
+Star Wars: Episode VI - Return of the Jedi;1983;134;Przygodowy;USA
+Million Dollar Baby;2004;132;Dramat;USA
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe;2005;143;Familijny;USA
+Gone Girl;2014;149;Dramat;USA
+How to Train Your Dragon;2010;98;Animacja;USA
+1408;2007;112;Horror;USA
+Scary Movie;2000;90;Komedia;USA
+The Hunger Games: Catching Fire;2013;146;Akcja;USA
+War of the Worlds;2005;116;Dramat;USA
+Sin City;2005;124;Kryminał;USA
+The Last Samurai;2003;154;Dramat historyczny;USA
+Jak rozpętałem drugą wojnę światową;1969;236;Komedia;Polska
+Star Wars: Episode I - The Phantom Menace;1999;136;Przygodowy;USA
+I, Robot;2004;115;Thriller;Niemcy
+2012;2009;158;Sci-Fi;Kanada
+Casino Royale;2006;144;Sensacyjny;Czechy
+Skyfall;2012;143;Sensacyjny;USA
+Raiders of the Lost Ark;1981;115;Przygodowy;USA
+Sherlock Holmes: A Game of Shadows;2011;129;Kryminał;USA
+Le fabuleux destin d'Amélie Poulain;2001;129;Dramat;Francja
+Ted;2012;106;Fantasy;USA
+Ratatouille;2007;111;Animacja;USA
+La vita è bella;1997;116;Dramat;Włochy
+The Godfather: Part II;1974;200;Dramat;USA
+Terminator 2: Judgment Day;1991;137;Akcja;Francja
+Blood Diamond;2006;143;Dramat;Niemcy
+Finding Neverland;2004;106;Dramat;USA
+The Help;2011;146;Dramat;Indie
+Dirty Dancing;1987;100;Melodramat;USA
+Sami swoi;1967;78;Komedia obycz.;Polska
+Meet Joe Black;1998;181;Fantasy;USA
+Whiplash;2014;105;Dramat;USA
+Armageddon;1998;150;Katastroficzny;USA
+Vinci;2004;108;Komedia kryminalna;Polska
+The Terminator;1984;107;Akcja;USA
+The Martian;2015;141;Akcja;USA
+Jumanji;1995;104;Fantasy;USA
+Good Will Hunting;1997;126;Dramat obyczajowy;USA
+Hancock;2008;102;Fantasy;USA
+Symetria;2003;99;Dramat;Polska
+The Pursuit of Happyness;2006;117;Biograficzny;USA
+Love Actually;2003;135;Komedia rom.;Francja
+El Laberinto del fauno;2006;112;Dramat;Hiszpania
+Indiana Jones and the Last Crusade;1989;127;Przygodowy;USA
+Secret Window;2004;95;Thriller;USA
+Red Dragon;2002;124;Thriller;Niemcy
+Scarface;1983;170;Dramat;USA
+Snatch.;2000;104;Komedia kryminalna;USA
+Star Wars: Episode III - Revenge of the Sith;2005;140;Przygodowy;USA
+The Bucket List;2007;97;Dramat;USA
+Into the Wild;2007;148;Biograficzny;USA
+Up;2009;96;Animacja;USA
+Frozen;2013;108;Animacja;USA
+A Walk to Remember;2002;101;Melodramat;USA
+The Mist;2007;126;Horror;USA
+The Terminal;2004;128;Komedia rom.;USA
+Iron Man 2;2010;124;Akcja;USA
+Poranek kojota;2001;92;Komedia;Polska
+Constantine;2005;121;Fantasy;Niemcy
+The Grand Budapest Hotel;2014;100;Dramat;Niemcy
+The Bourne Identity;2002;119;Sensacyjny;Czechy
+National Treasure;2004;131;Przygodowy;USA
+The Passion of the Christ;2004;127;Dramat;USA
+Home Alone 2: Lost in New York;1992;120;Familijny;USA
+The Matrix Reloaded;2003;138;Akcja;Australia
+Sleepy Hollow;1999;105;Horror;Niemcy
+Skazany na bluesa;2005;97;Dramat;Polska
+Apollo 13;1995;140;Dramat;USA
+Listy do M.;2011;116;Komedia rom.;Polska
+Deja Vu;2006;128;Thriller;USA
+District 9;2009;112;Dramat;Kanada
+Independence Day;1996;145;Akcja;USA
+Step Up;2006;104;Romans;USA
+Minority Report;2002;145;Thriller;USA
+Angels & Demons;2009;138;Thriller;USA
+Katyń;2007;117;Wojenny;Polska
+Pearl Harbor;2001;183;Melodramat;USA
+Trainspotting;1996;94;Dramat;Wielka Brytania
+Enemy at the Gates;2001;131;Dramat;Irlandia
+The Revenant;2015;156;Dramat;Hongkong
+The Hobbit: The Battle of the Five Armies;2014;144;Fantasy;Nowa Zelandia
+Mamma Mia!;2008;110;Musical;Niemcy
+The Social Network;2010;120;Biograficzny;USA
+American Sniper;2014;134;Biograficzny;USA
+The Day After Tomorrow;2004;124;Sci-Fi;USA
+Kill Bill: Vol. 2;2004;136;Thriller;USA
+The Ring;2002;115;Horror;Japonia
+Kiler-ów 2-óch;1999;113;Komedia;Polska
+Corpse Bride;2005;76;Animacja;USA
+Girl, Interrupted;1999;127;Biograficzny;Niemcy
+Iron Man 3;2013;130;Akcja;Chiny
+Saw;2004;103;Horror;Australia
+Die Hard;1988;131;Sensacyjny;USA
+Astérix & Obélix: Mission Cléopâtre;2002;107;Familijny;Francja
+Star Wars: The Force Awakens;2015;135;Przygodowy;USA
+Chocolat;2000;117;Dramat;USA
+The Great Gatsby;2013;142;Melodramat;Australia
+Sweeney Todd: The Demon Barber of Fleet Street;2007;116;Musical;USA
+Twelve Monkeys;1995;129;Dramat;USA
+Ocean's Eleven;2001;116;Komedia kryminalna;USA
+Star Wars: Episode II - Attack of the Clones;2002;142;Przygodowy;USA
+Job, czyli ostatnia szara komórka;2006;90;Komedia;Polska
+Law Abiding Citizen;2009;109;Thriller;USA
+Blow;2001;124;Biograficzny;USA
+Wesele;2004;101;Dramat;Polska
+The Matrix Revolutions;2003;129;Akcja;Australia
+The Others;2001;101;Thriller;Francja
+Yes Man;2008;104;Komedia rom.;Australia
+The Fault in Our Stars;2014;125;Dramat;USA
+Prisoners;2013;153;Thriller;USA
+Legally Blonde;2001;96;Komedia;USA
+Pitbull. Nowe porządki;2016;133;Dramat;Polska
+Juno;2007;96;Dramat;Kanada
+Drive;2011;100;Akcja;USA
+Thor;2011;114;Fantasy;USA
+Gravity;2013;90;Dramat;USA
+Donnie Darko;2001;113;Dramat;USA
+Friends with Benefits;2011;109;Komedia rom.;USA
+We're the Millers;2013;110;Komedia kryminalna;USA
+The Exorcism of Emily Rose;2005;119;Dramat;USA
+Vicky Cristina Barcelona;2008;96;Komedia obycz.;Hiszpania
+Aliens;1986;137;Horror;USA
+Wojna polsko-ruska;2009;108;Dramat;Polska
+Zootopia;2016;108;Animacja;USA
+Taxi Driver;1976;113;Dramat;USA
+EuroTrip;2004;90;Komedia;Czechy
+Jumper;2008;88;Przygodowy;Kanada
+The Conjuring;2013;112;Horror;USA
+Lucy;2014;90;Akcja;Francja
+Reservoir Dogs;1992;99;Thriller;USA
+No Country for Old Men;2007;122;Dramat;USA
+Wszyscy jesteśmy Chrystusami;2006;107;Dramat;Polska
+Tangled;2010;96;Animacja;USA
+Ice Age 2: The Meltdown;2006;91;Animacja;USA
+Guardians of the Galaxy;2014;122;Akcja;USA
+Artificial Intelligence: AI;2001;145;Dramat;USA
+The Game;1997;128;Thriller;USA
+Shrek the Third;2007;93;Animacja;USA
+Final Destination;2000;98;Horror;Kanada
+Crazy, Stupid, Love.;2011;118;Dramat;USA
+Click;2006;107;Fantasy;USA
+A Clockwork Orange;1971;136;Dramat;USA
+The Proposal;2009;110;Komedia rom.;USA
+Divergent;2014;143;Akcja;USA
+Captain Phillips;2013;134;Biograficzny;USA
+The Ninth Gate;1999;133;Dramat;Francja
+Maleficent;2014;97;Familijny;USA
+Next;2007;96;Akcja;USA
+12 Angry Men;1957;96;Dramat sądowy;USA
+Meet the Fockers;2004;115;Komedia;USA
+American Gangster;2007;157;Biograficzny;USA
+Desperado;1995;106;Akcja;USA
+Psy;1992;104;Sensacyjny;Polska
+The Village;2004;108;Thriller;USA
+Monsters, Inc.;2001;92;Animacja;USA
+Drogówka;2013;118;Kryminał;Polska
+Jesteś Bogiem;2012;124;Biograficzny;Polska
+Batman;1989;126;Fantasy;USA
+Equilibrium;2002;107;Thriller;USA
+The Hunger Games: Mockingjay Part 1;2014;123;Akcja;USA
+The Reader;2008;124;Melodramat;Niemcy
+You Don't Mess with the Zohan;2008;113;Komedia;USA
+Mad Max: Fury Road;2015;120;Sensacyjny;Australia
+Midnight in Paris;2011;100;Fantasy;Hiszpania
+Source Code;2011;93;Thriller;USA
+Galerianki;2009;77;Dramat obyczajowy;Polska
+The Maze Runner;2014;113;Thriller;Kanada
+Finding Nemo;2003;100;Animacja;Australia
+Inside Out;2015;94;Animacja;USA
+In Time;2011;109;Thriller;USA
+The Theory of Everything;2014;123;Biograficzny;Wielka Brytania
+Rocky;1976;119;Dramat;USA
+Suicide Squad;2016;123;Akcja;Kanada
+Tylko mnie kochaj;2006;98;Komedia rom.;Polska
+The Tourist;2010;103;Thriller;Francja
+Brokeback Mountain;2005;134;Melodramat;Kanada
+Memento;2000;113;Kryminał;USA
+Memoirs of a Geisha;2005;145;Melodramat;USA
+Signs;2002;106;Thriller;USA
+The Hateful Eight;2015;187;Western;USA
+Man on Fire;2004;146;Dramat;USA
+Pretty Woman;1990;119;Komedia rom.;USA
+Apocalypto;2006;139;Dramat;USA
+The Bone Collector;1999;118;Kryminał;USA
+Death Proof;2007;114;Thriller;USA
+Pay It Forward;2000;124;Dramat;USA
+The Holiday;2006;138;Komedia rom.;USA
+Blade Runner;1982;117;Thriller;Hongkong
+Transformers: Revenge of the Fallen;2009;150;Akcja;USA
+The Fast and the Furious: Tokyo Drift;2006;104;Akcja;USA
+The Aviator;2004;170;Biograficzny;Niemcy
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan;2006;84;Komedia;USA
+Cloud Atlas;2012;172;Dramat;Hongkong
+The Bourne Ultimatum;2007;115;Sensacyjny;Niemcy
+Prometheus;2012;124;Horror;USA
+Van Wilder;2002;92;Komedia;Niemcy
+Project X;2012;88;Komedia;USA
+8 Mile;2002;110;Biograficzny;Niemcy
+Phone Booth;2002;81;Thriller;USA
+Wanted;2008;110;Akcja;Niemcy
+Public Enemies;2009;140;Dramat;USA
+Changeling;2008;140;Dramat obyczajowy;USA
+Fast Five;2011;130;Akcja;USA
+The Island;2005;136;Akcja;USA
+Ghost Rider;2007;114;Fantasy;Australia
+Banlieue 13;2004;85;Akcja;Francja
+Karol, un uomo diventato papa;2005;186;Biograficzny;Francja
+Toy Story;1995;80;Animacja;USA
+Dallas Buyers Club;2013;117;Biograficzny;USA
+Kingdom of Heaven;2005;145;Dramat historyczny;Hiszpania
+X2;2003;133;Akcja;Kanada
+Fifty Shades of Grey;2015;124;Melodramat;USA
+2 Fast 2 Furious;2003;107;Akcja;Niemcy
+Back to the Future Part II;1989;108;Komedia;USA
+Life of Brian;1979;94;Komedia;Wielka Brytania
+The Imaginarium of Doctor Parnassus;2009;122;Fantasy;Francja
+About Time;2013;119;Dramat;Wielka Brytania
+Madagascar: Escape 2 Africa;2008;89;Animacja;USA
+Der Name der Rose;1986;130;Kryminał;Francja
+The Day the Earth Stood Still;2008;103;Dramat;Kanada
+Kingsman: The Secret Service;2014;129;Akcja;USA
+Apocalypse Now;1979;153;Dramat;USA
+The Mummy;1999;125;Fantasy;USA
+Crank;2006;87;Akcja;USA
+X-Men: First Class;2011;132;Akcja;USA
+Cidade de Deus;2002;130;Dramat;Brazylia
+Dom zły;2009;106;Dramat;Polska
+X-Men Origins: Wolverine;2009;107;Akcja;USA
+World War Z;2013;116;Horror;USA
+The Godfather: Part III;1990;162;Dramat;USA
+Babel;2006;142;Dramat;Francja
+Katedra;2002;7;Animacja;Polska
+Ex Machina;2015;108;Thriller;Wielka Brytania
+Beetle Juice;1988;92;Fantasy;USA
+X-Men;2000;104;Akcja;USA
+P.S. I Love You;2007;126;Melodramat;USA
+Zodiac;2007;158;Dramat;USA
+Silent Hill;2006;125;Horror;Francja
+The Twilight Saga: New Moon;2009;130;Horror;USA
+Nigdy w życiu!;2004;100;Obyczajowy;Polska
+Avengers: Age of Ultron;2015;141;Akcja;USA
+Bad Boys;1995;118;Sensacyjny;USA
+The Boondock Saints;1999;110;Sensacyjny;Kanada
+The Intern;2015;121;Komedia;USA
+Cube;1997;90;Thriller;Kanada
+Dangerous Minds;1995;99;Biograficzny;USA
+Birdman;2014;119;Dramat;USA
+One Day;2011;108;Melodramat;USA
+Fear and Loathing in Las Vegas;1998;118;Dramat;USA
+Notting Hill;1999;124;Komedia rom.;USA
+50 First Dates;2004;99;Komedia rom.;USA
+The Hangover Part III;2013;100;Komedia;USA
+Mystic River;2003;137;Thriller;Australia
+Thor: The Dark World;2013;112;Fantasy;USA
+Dark Shadows;2012;113;Fantasy;USA
+The Imitation Game;2014;113;Biograficzny;USA
+Room;2015;118;Dramat;Irlandia
+Spectre;2015;148;Sensacyjny;USA
+The Vow;2012;104;Melodramat;Australia
+21 Jump Street;2012;109;Akcja;USA
+Underworld;2003;121;Horror;Niemcy
+Predator;1987;107;Akcja;USA
+Dear John;2010;105;Melodramat;USA
+Prince of Persia: The Sands of Time;2010;116;Fantasy;USA
+Misery;1990;107;Thriller;USA
+Monty Python and the Holy Grail;1975;91;Komedia;Wielka Brytania
+Captain America: The First Avenger;2011;124;Akcja;USA
+Pocahontas;1995;81;Animacja;USA
+Rain Man;1988;133;Dramat;USA
+Fast & Furious;2009;107;Akcja;USA
+Captain America: The Winter Soldier;2014;136;Akcja;USA
+Quantum of Solace;2008;106;Sensacyjny;USA
+X-Men: Days of Future Past;2014;130;Akcja;USA
+You've Got Mail;1998;119;Komedia rom.;USA
+Crash;2004;113;Dramat;Niemcy
+Gone in Sixty Seconds;2000;117;Sensacyjny;USA
+Van Helsing;2004;132;Horror;Czechy
+Beauty and the Beast;1991;90;Animacja;USA
+Edge of Tomorrow;2014;113;Akcja;Kanada
+Hacksaw Ridge;2016;139;Biograficzny;Australia
+Ghost;1990;128;Dramat;USA
+Nic śmiesznego;1995;95;Dramat;Polska
+The Bourne Supremacy;2004;108;Sensacyjny;Niemcy
+El Orfanato;2007;105;Dramat;Hiszpania
+Salt;2010;100;Thriller;USA
+Miasto 44;2014;130;Dramat;Polska
+Back to the Future Part III;1990;118;Komedia;USA
+The Twilight Saga: Eclipse;2010;124;Horror;USA
+Casino;1995;178;Dramat;Francja
+Hachi: A Dog's Tale;2009;93;Dramat;USA
+[Rec];2007;80;Horror;Hiszpania
+The Expendables;2010;103;Akcja;USA
+Furious 6;2013;130;Akcja;USA
+From Dusk Till Dawn;1996;108;Horror;USA
+Spotlight;2015;128;Dramat;Kanada
+The Judge;2014;141;Dramat;USA
+Terminator Salvation;2009;115;Akcja;Niemcy
+Transformers: Dark of the Moon;2011;157;Akcja;USA
+Vabank;1981;104;Komedia kryminalna;Polska
+Gangs of New York;2002;167;Dramat;USA
+Love, Rosie;2014;102;Komedia rom.;Niemcy
+Bridget Jones: The Edge of Reason;2004;108;Komedia rom.;Francja
+How to Train Your Dragon 2;2014;105;Animacja;USA
+City of Angels;1998;114;Fantasy;Niemcy
+Indiana Jones and the Temple of Doom;1984;118;Przygodowy;USA
+Pride & Prejudice;2005;127;Kostiumowy;Francja
+Due Date;2010;100;Komedia;USA
+Dług;1999;97;Dramat;Polska
+Resident Evil;2002;100;Horror;Francja
+Fury;2014;134;Dramat;Chiny
+Lost in Translation;2003;102;Komedia;Japonia
+Snow White and the Huntsman;2012;127;Fantasy;USA
+Arrival;2016;116;Thriller;USA
+Pokłosie;2012;107;Thriller;Holandia
+American Psycho;2000;101;Thriller;USA
+Rush;2013;123;Biograficzny;Niemcy
+Me Before You;2016;110;Dramat;USA
+King Kong;2005;187;Fantasy;Niemcy
+Stardust;2007;130;Fantasy;Islandia
+10 Things I Hate About You;1999;97;Komedia;USA
+Lo Imposible;2012;114;Katastroficzny;Hiszpania
+Shrek Forever After;2010;93;Animacja;USA
+21 Grams;2003;124;Kryminał;USA
+La La Land;2016;126;Musical;USA
+Mulan;1998;88;Animacja;USA
+The Book of Eli;2010;118;Dramat;USA
+Heat;1995;170;Sensacyjny;USA
+X-Men: The Last Stand;2006;104;Akcja;Kanada
+The Amazing Spider-Man;2012;136;Akcja;USA
+Mr. Nobody;2009;141;Dramat;Belgia
+Full Metal Jacket;1987;116;Dramat;USA
+Breakfast at Tiffany's;1961;115;Melodramat;USA
+Fantastic Beasts and Where to Find Them;2016;133;Familijny;USA
+Furious Seven;2015;140;Akcja;Japonia
+Robin Hood: Prince of Thieves;1991;143;Przygodowy;USA
+Duplex;2003;89;Czarna komedia;Niemcy
+Spider-Man 2;2004;127;Akcja;USA
+The Patriot;2000;165;Dramat historyczny;Niemcy
+Cruel Intentions;1999;97;Dramat;USA
+(500) Days of Summer;2009;95;Dramat;USA
+Easy A;2010;92;Komedia;USA
+Big Hero 6;2014;102;Animacja;USA
+Romeo + Juliet;1996;120;Melodramat;USA
+12 Years a Slave;2013;133;Biograficzny;USA
+Night at the Museum;2006;108;Familijny;USA
+Space Jam;1996;88;Animacja;USA
+Dracula;1992;128;Horror;USA
+The Dictator;2012;83;Komedia;USA
+Poszukiwany, poszukiwana;1972;82;Komedia;Polska
+Billy Elliot;2000;110;Dramat;Francja
+First Blood;1982;93;Dramat;USA
+Pitbull. Niebezpieczne kobiety;2016;135;Dramat;Polska
+Now You See Me 2;2016;129;Kryminał;Francja
+Her;2013;126;Melodramat;USA
+Kung Fu Panda;2008;92;Animacja;USA
+Inside Man;2006;129;Sensacyjny;USA
+Captain America: Civil War;2016;146;Akcja;USA
+The Age of Adaline;2015;110;Melodramat;Kanada
+Life of Pi;2012;127;Dramat;USA
+American Reunion;2012;113;Komedia;USA
+Four Rooms;1995;98;Czarna komedia;USA
+Sleepers;1996;146;Dramat;USA
+Knowing;2009;121;Thriller;Australia
+Taxi;1998;85;Komedia;Francja
+The Twilight Saga: Breaking Dawn - Part 1;2011;117;Horror;USA
+Mrs. Doubtfire;1993;125;Dramat;USA
+Toy Story 3;2010;103;Animacja;USA
+Doctor Strange;2016;115;Fantasy;USA
+Eternal Sunshine of the Spotless Mind;2004;108;Dramat;USA
+Rogue One: A Star Wars Story;2016;133;Przygodowy;USA
+Ice Age: Dawn of the Dinosaurs;2009;94;Animacja;USA
+Something's Gotta Give;2003;128;Dramat;USA
+Indiana Jones and the Kingdom of the Crystal Skull;2008;122;Przygodowy;USA
+Fracture;2007;112;Thriller;Niemcy
+The Hunger Games: Mockingjay Part 2;2015;137;Akcja;Niemcy
+Argo;2012;120;Thriller;USA
+Ocean's Twelve;2004;125;Komedia kryminalna;USA
+The Perks of Being a Wallflower;2012;103;Melodramat;USA
+Speed;1994;116;Sensacyjny;USA
+Rosemary's Baby;1968;136;Horror;USA
+American Pie 2;2001;108;Komedia rom.;USA
+Just Go with It;2011;117;Komedia rom.;USA
+Groundhog Day;1993;101;Komedia rom.;USA
+Jurassic World;2015;124;Przygodowy;USA
+E.T. the Extra-Terrestrial;1982;115;Familijny;USA
+Elysium;2013;109;Akcja;USA
+The Big Lebowski;1998;117;Komedia kryminalna;USA
+American Hustle;2013;138;Dramat;USA
+End of Watch;2012;109;Kryminał;USA
+Tres metros sobre el cielo;2010;118;Melodramat;Hiszpania
+Southpaw;2015;123;Dramat;USA
+The Meaning of Life;1983;107;Komedia;Wielka Brytania
+Taken 2;2012;91;Sensacyjny;Francja
+La Migliore offerta;2013;131;Kryminał;Włochy
+Men in Black II;2002;88;Komedia;USA
+El Maquinista;2004;102;Dramat;Hiszpania
+Róża;2011;98;Dramat;Polska
+Spider-Man 3;2007;139;Akcja;USA
+The Blind Side;2009;128;Biograficzny;USA
+Flight;2012;138;Dramat;USA
+John Q;2002;116;Dramat;USA
+Jack Strong;2014;127;Thriller;Polska
+Paranormal Activity;2007;86;Horror;USA
+Step Up 2: The Streets;2008;98;Romans;USA
+Oblivion;2013;125;Akcja;USA
+Live Free or Die Hard;2007;130;Sensacyjny;USA
+Znachor;1981;128;Obyczajowy;Polska
+Remember Me;2010;113;Melodramat;USA
+Vanilla Sky;2001;135;Thriller;Hiszpania
+The Ugly Truth;2009;96;Komedia rom.;USA
+Psycho;1960;109;Thriller;USA
+Mars Attacks!;1996;106;Sci-Fi;USA
+Brave;2012;90;Animacja;USA
+The Number 23;2007;98;Thriller;USA
+Seven Years in Tibet;1997;139;Biograficzny;USA
+How to Lose a Guy in 10 Days;2003;116;Komedia rom.;Niemcy
+Ace Ventura: When Nature Calls;1995;105;Komedia;USA
+Platoon;1986;120;Dramat;USA
+Nie ma mocnych;1974;90;Komedia obycz.;Polska
+Ocean's Thirteen;2007;122;Komedia kryminalna;USA
+The Sorcerer's Apprentice;2010;111;Fantasy;USA
+2001: A Space Odyssey;1968;141;Sci-Fi;USA
+Rejs;1970;65;Komedia;Polska
+The Wolverine;2013;126;Akcja;USA
+Lethal Weapon;1987;113;Komedia kryminalna;USA
+Planeta singli;2016;136;Komedia rom.;Polska
+Passengers;2016;116;Przygodowy;USA
+American Wedding;2003;96;Komedia rom.;Niemcy
+Ant-Man;2015;117;Akcja;USA
+Ogniem i mieczem;1999;175;Historyczny;Polska
+Clash of the Titans;2010;106;Fantasy;USA
+Alexander;2004;175;Biograficzny;Francja
+Desert Flower;2009;120;Biograficzny;Austria
+E=mc²;2002;93;Komedia;Polska
+The Twilight Saga: Breaking Dawn - Part 2;2012;115;Fantasy;USA
+Horrible Bosses;2011;98;Komedia kryminalna;USA
+127 Hours;2010;94;Dramat;USA
+Kariera Nikosia Dyzmy;2002;103;Komedia;Polska
+The Deer Hunter;1978;182;Dramat;USA
+Despicable Me;2010;95;Animacja;USA
+Men in Black 3;2012;106;Komedia;USA
+The Expendables 2;2012;102;Akcja;USA
+Moulin Rouge!;2001;126;Melodramat;Australia
+Zombieland;2009;88;Horror;USA
+Brothers;2009;104;Dramat;USA
+The Exorcist;1973;122;Horror;USA
+The Incredibles;2004;115;Animacja;USA
+Red;2010;111;Komedia;USA
+The Lone Ranger;2013;149;Przygodowy;USA
+Death Race;2008;111;Akcja;Niemcy
+Liar Liar;1997;86;Komedia;USA
+National Treasure: Book of Secrets;2007;124;Przygodowy;USA
+No Strings Attached;2011;108;Komedia rom.;USA
+Donnie Brasco;1997;127;Biograficzny;USA
+Pod Mocnym Aniołem;2014;109;Dramat;Polska
+Robin Hood;2010;140;Dramat;USA
+The Ghost Writer;2010;128;Dramat;Francja
+Hitch;2005;118;Komedia rom.;USA
+The Rock;1996;136;Sensacyjny;USA
+Logan;2017;137;Dramat;Australia
+The Chronicles of Narnia: Prince Caspian;2008;150;Familijny;Czechy
+Meet the Parents;2000;108;Komedia;USA
+Kogel-mogel;1988;105;Komedia obycz.;Polska
+The Believer;2001;98;Dramat;USA
+Love & Other Drugs;2010;112;Dramat;USA
+Cars;2006;117;Animacja;USA
+22 Jump Street;2014;112;Akcja;USA
+Man of Steel;2013;143;Akcja;Kanada
+The Wrestler;2008;111;Dramat obyczajowy;Francja
+What Women Want;2000;127;Komedia rom.;USA
+Bridget Jones's Baby;2016;122;Komedia rom.;Francja
+I Am Number Four;2011;109;Thriller;USA
+The Fugitive;1993;127;Sensacyjny;USA
+Carnage;2011;79;Dramat;Francja
+The Italian Job;2003;111;Sensacyjny;Francja
+Basic Instinct;1992;127;Thriller;Francja
+Transporter 2;2005;87;Akcja;Francja
+The Blair Witch Project;1999;81;Horror;USA
+Star Trek;2009;126;Akcja;Niemcy
+Chappie;2015;120;Akcja;RPA
+The Hunt for Red October;1990;134;Sensacyjny;USA
+The Lake House;2006;99;Fantasy;Australia
+Everest;2015;121;Przygodowy;Islandia
+Final Destination 2;2003;90;Horror;Kanada
+Unknown;2011;113;Thriller;Francja
+Bridge of Spies;2015;141;Dramat;Indie
+The Lovely Bones;2009;135;Dramat;Nowa Zelandia
+The Rite;2011;114;Dramat;USA
+Revolutionary Road;2008;119;Melodramat;USA
+Neighbors;2014;91;Komedia;USA
+The Chronicles of Riddick;2004;119;Akcja;USA
+Pi;1998;85;Dramat;USA
+Kick-Ass;2010;117;Komedia;USA
+Death Becomes Her;1992;103;Fantasy;USA
+Burnt;2015;100;Dramat;USA
+The Girl Next Door;2004;109;Komedia rom.;USA
+Amadeus;1984;160;Biograficzny;USA
+Dances with Wolves;1990;181;Western;USA
+Miss Congeniality;2000;109;Komedia kryminalna;Australia
+Pan Tadeusz;1999;147;Dramat;Francja
+Blade;1998;120;Horror;USA
+Pieniądze to nie wszystko;2001;102;Komedia obycz.;Polska
+John Wick;2014;101;Thriller;USA
+Sen to Chihiro no Kamikakushi;2001;125;Fantasy;Japonia
+Bridge to Terabithia;2007;95;Dramat;USA
+Madagascar 3: Europe's Most Wanted;2012;89;Animacja;USA
+Insurgent;2015;120;Akcja;USA
+Sinister;2012;110;Horror;USA
+Ida;2013;80;Dramat;Dania
+Shooter;2007;124;Sensacyjny;USA
+She's the Man;2006;105;Komedia rom.;Kanada
+Relatos salvajes;2014;122;Czarna komedia;Argentyna
+Qu'est-ce qu'on a fait au Bon Dieu?;2014;97;Komedia;Francja
+Mean Girls;2004;97;Komedia obycz.;Kanada
+Scary Movie 2;2001;83;Komedia;Kanada
+Atonement;2007;123;Melodramat;Francja
+Transcendence;2014;120;Dramat;Chiny
+Mission: Impossible;1996;110;Sensacyjny;USA
+Wołyń;2016;150;Dramat;Polska
+My Sister's Keeper;2009;109;Dramat obyczajowy;USA
+Zróbmy sobie wnuka;2003;83;Komedia;Polska
+La Piel que habito;2011;120;Thriller;Hiszpania
+Machete;2010;105;Akcja;USA
+Nightcrawler;2014;117;Dramat;USA
+Die Hard: With a Vengeance;1995;131;Sensacyjny;USA
+The Big Short;2015;130;Dramat;USA
+Sicario;2015;121;Dramat;USA
+Rat Race;2001;112;Komedia;Kanada
+Die Hard 2;1990;124;Sensacyjny;USA
+Hercules;1997;92;Animacja;USA
+Looper;2012;118;Akcja;Chiny
+Gothika;2003;98;Horror;USA
+Enemy of the State;1998;131;Sensacyjny;USA
+Lady and the Tramp;1955;75;Animacja;USA
+Training Day;2001;122;Dramat;Australia
+The Scorch Trial;2015;132;Thriller;USA
+Awake;2007;84;Thriller;USA
+xXx;2002;124;Akcja;USA
+Sara;1997;107;Sensacyjny;Polska
+Hotel Transylvania;2012;91;Animacja;USA
+Underworld: Evolution;2006;106;Horror;Kanada
+Bad Teacher;2011;92;Komedia;USA
+Rise of the Planet of the Apes;2011;105;Dramat;USA
+If I Stay;2014;106;Melodramat;USA
+Grown Ups;2010;102;Komedia;USA
+Spy;2015;120;Komedia;USA
+In Darkness;2011;145;Dramat;Kanada
+Toy Story 2;1999;88;Animacja;USA
+Lara Croft: Tomb Raider;2001;100;Przygodowy;Japonia
+As Good as It Gets;1997;139;Dramat;USA
+Bad Boys II;2003;147;Sensacyjny;USA
+Alien³;1992;114;Horror;USA
+Despicable Me 2;2013;98;Animacja;USA
+The Fighter;2010;114;Biograficzny;USA
+The Girl on the Train;2016;112;Thriller;USA
+The Hours;2002;114;Dramat;USA
+The Life of David Gale;2003;130;Dramat;Niemcy
+Letters to Juliet;2010;105;Dramat;USA
+Pacific Rim;2013;131;Akcja;USA
+The Giver;2014;94;Dramat;Kanada
+RRRrrrr!!!;2004;94;Komedia;Francja
+Batman v Superman: Dawn of Justice;2016;151;Akcja;USA
+Perfetti sconosciuti;2016;97;Dramat;Włochy
+The Bank Job;2008;110;Kryminał;USA
+Brother Bear;2003;85;Animacja;USA
+Ted 2;2015;119;Komedia;USA
+Gone with the Wind;1939;226;Kostiumowy;USA
+Nie lubię poniedziałku;1971;98;Komedia obycz.;Polska
+Grease;1978;110;Musical;USA
+Lock, Stock and Two Smoking Barrels;1998;107;Komedia kryminalna;Wielka Brytania
+Last Vegas;2013;105;Komedia;USA
+Focus;2015;104;Komedia kryminalna;Argentyna
+Jagten;2012;115;Dramat obyczajowy;Dania
+Once Upon a Time in America;1984;229;Dramat;USA
+The Other Boleyn Girl;2008;115;Dramat historyczny;USA
+Transporter 3;2008;105;Akcja;Francja
+Les Misérables;2012;157;Dramat;USA
+The Omen;1976;106;Horror;USA
+17 Again;2009;102;Komedia;USA
+Sausage Party;2016;83;Animacja;USA
+The Secret Life of Walter Mitty;2013;114;Dramat;USA
+The Hurt Locker;2008;131;Dramat;USA
+Chce się żyć;2013;107;Dramat;Polska
+Scary Movie 3;2003;84;Komedia;Kanada
+Tropic Thunder;2008;107;Komedia;Niemcy
+Evan Almighty;2007;95;Fantasy;USA
+What Dreams May Come;1998;113;Fantasy;Nowa Zelandia
+The Incredible Hulk;2008;112;Akcja;USA
+X-Men: Apocalypse;2016;144;Akcja;USA
+The Last Song;2010;107;Melodramat;USA
+Life as We Know It;2010;114;Dramat;USA
+Ice Age: Continental Drift;2012;88;Animacja;USA
+Waterworld;1995;136;Przygodowy;USA
+Tato;1995;110;Dramat obyczajowy;Polska
+9 rota;2005;139;Dramat;Finlandia
+Och, Karol 2;2011;105;Komedia;Polska
+Match Point;2005;124;Dramat;Luksemburg
+Natural Born Killers;1994;122;Dramat;USA
+Sweet November;2001;119;Dramat;USA
+Warcraft;2016;123;Fantasy;Chiny
+Le grand bleu;1988;132;Dramat;Francja
+Kingsajz;1987;104;Komedia;Polska
+Split;2016;116;Thriller;Japonia
+Underworld: Rise of the Lycans;2009;93;Horror;Nowa Zelandia
+Water for Elephants;2011;120;Melodramat;USA
+Primal Fear;1996;129;Dramat;USA
+Les choristes;2004;96;Dramat;Francja
+The Blues Brothers;1980;133;Komedia;USA
+Don Jon;2013;90;Dramat;USA
+Awakenings;1990;121;Dramat obyczajowy;USA
+Les Visiteurs;1993;107;Fantasy;Francja
+Saw II;2005;93;Horror;Kanada
+Wedding Crashers;2005;119;Komedia rom.;USA
+Burn After Reading;2008;96;Komedia kryminalna;Francja
+Służby specjalne;2014;115;Sensacyjny;Polska
+Whatever Works;2009;92;Komedia obycz.;Francja
+The A-Team;2010;117;Komedia;USA
+Pirates of the Caribbean: Dead Men Tell No Tales;2017;129;Fantasy;Australia
+Monsters University;2013;104;Animacja;USA
+Ghost Busters;1984;105;Horror;USA
+The Lion King II: Simba's Pride;1998;78;Animacja;Australia
+The Conjuring 2;2016;134;Horror;USA
+Magic Mike;2012;110;Dramat;USA
+The Amazing Spider-Man 2;2014;142;Akcja;USA
+Some Like It Hot;1959;120;Komedia;USA
+Top Gun;1986;110;Sensacyjny;USA
+Real Steel;2011;127;Akcja;Indie
+Coming to America;1988;116;Komedia;USA
+Dirty Grandpa;2016;102;Komedia;USA
+Hitman;2007;93;Thriller;Francja
+Alien: Resurrection;1997;109;Horror;USA
+About a Boy;2002;101;Dramat;Francja
+Now Is Good;2012;103;Dramat obyczajowy;Wielka Brytania
+The Woman in Black;2012;95;Dramat;Kanada
+Jaws;1975;124;Thriller;USA
+Noah;2014;138;Dramat;USA
+Final Destination 3;2006;93;Horror;Kanada
+TRON: Legacy;2010;127;Akcja;USA
+The Mummy Returns;2001;130;Fantasy;USA
+Il buono, il brutto, il cattivo.;1966;179;Western;Hiszpania
+Carlito's Way;1993;144;Gangsterski;USA
+21;2008;123;Kryminał;USA
+Transformers: Age of Extinction;2014;165;Akcja;Chiny
+Knocked Up;2007;129;Komedia rom.;USA
+Taxi 2;2000;88;Komedia;Francja
+Empire of the Sun;1987;154;Dramat;USA
+The Host;2013;125;Thriller;Szwajcaria
+Never Back Down;2008;110;Dramat;USA
+We Need to Talk About Kevin;2011;110;Dramat;USA
+The Bodyguard;1992;130;Sensacyjny;USA
+Watchmen;2009;163;Dramat;USA
+The Bounty Hunter;2010;111;Komedia;USA
+Planet Terror;2007;105;Horror;USA
+The Thing;1982;109;Horror;USA
+Wszystko, co kocham;2009;95;Dramat obyczajowy;Polska
+August: Osage County;2013;121;Dramat;USA
+Marley & Me;2008;120;Komedia obycz.;USA
+The Last of the Mohicans;1992;112;Dramat historyczny;USA
+The Ides of March;2011;98;Dramat;USA
+Four Weddings and a Funeral;1994;117;Komedia rom.;Wielka Brytania
+Warrior;2011;140;Dramat;USA
+The Thin Red Line;1998;170;Dramat;USA
+What Happens in Vegas;2008;99;Komedia rom.;USA
+Minions;2015;91;Animacja;USA
+The Man From U.N.C.L.E.;2015;116;Komedia;USA
+Big Fish;2003;125;Dramat;USA
+Police Academy;1984;96;Komedia kryminalna;USA
+King Arthur;2004;126;Kostiumowy;Irlandia
+Nocturnal Animals;2016;115;Thriller;USA
+The Birds;1963;119;Dreszczowiec;USA
+Fargo;1996;98;Dramat;USA
+John Carter;2012;132;Przygodowy;USA
+The Nice Guys;2016;116;Komedia kryminalna;USA
+Listy do M. 2;2015;103;Komedia rom.;Polska
+Panic Room;2002;107;Thriller;USA
+300: Rise of an Empire;2014;102;Dramat;USA
+Dracula Untold;2014;92;Fantasy;Japonia
+Total Recall;2012;118;Thriller;Kanada
+Little Miss Sunshine;2006;101;Dramat;USA
+Maid in Manhattan;2002;105;Komedia rom.;USA
+The Fountain;2006;96;Dramat;USA
+Układ zamknięty;2013;115;Thriller;Polska
+Percy Jackson & the Olympians: The Lightning Thief;2010;118;Fantasy;Kanada
+Season of the Witch;2011;95;Fantasy;USA
+Season of the Witch;2011;95;Fantasy;USA
+Shark Tale;2004;90;Animacja;USA
+Pitch Black;2000;110;Akcja;USA
+Look Who's Talking;1989;93;Familijny;USA
+Terminator 3: Rise of the Machines;2003;109;Akcja;Niemcy
+Falling Down;1993;112;Thriller;Francja
+Nerve;2016;96;Thriller;USA
+The Princess Diaries;2001;114;Familijny;USA
+Nie kłam, kochanie;2008;100;Komedia rom.;Polska
+The Duchess;2008;110;Kostiumowy;Francja
+27 Dresses;2008;107;Komedia rom.;USA
+The Nutty Professor;1996;95;Komedia;USA
+The Mortal Instruments: City of Bones;2013;130;Dramat;Kanada
+Shakespeare in Love;1998;123;Dramat;USA
+The Untouchables;1987;119;Gangsterski;USA
+Beauty and the Beast;2017;129;Fantasy;USA
+Batman Returns;1992;126;Akcja;USA
+He's Just Not That Into You;2009;129;Dramat;Holandia
+The Man in the Iron Mask;1998;132;Kostiumowy;USA
+Sztuka spadania;2004;6;Animacja;Polska
+Hauru no ugoku shiro;2004;119;Fantasy;Japonia
+Ciacho;2010;115;Komedia;Polska
+Lawless;2012;115;Dramat;USA
+101 Dalmatians;1996;103;Familijny;USA
+Enter the Dragon;1973;98;Akcja;Hongkong
+Hannibal Rising;2007;117;Thriller;Czechy
+The Internship;2013;119;Komedia;USA
+Astérix et Obélix contre César;1999;109;Familijny;Francja
+Dirty Dancing: Havana Nights;2004;86;Melodramat;USA
+The Negotiator;1998;139;Kryminał;Niemcy
+The Negotiator;1998;139;Kryminał;Niemcy
+Closer;2004;104;Melodramat;USA
+Chicago;2002;113;Kryminał;Niemcy
+Coach Carter;2005;136;Dramat;Niemcy
+The Butler;2013;132;Biograficzny;USA
+The Beach;2000;119;Dramat;USA
+Inferno;2016;121;Thriller;Japonia
+I Am Sam;2001;132;Dramat obyczajowy;USA
+Casablanca;1942;102;Kryminał;USA
+The Equalizer;2014;128;Thriller;USA
+The Lost World: Jurassic Park;1997;129;Przygodowy;USA
+Surrogates;2009;88;Thriller;USA
+PitBull;2005;97;Dramat;Polska
+Rocky II;1979;119;Dramat;USA
+Hansel and Gretel: Witch Hunters;2013;88;Fantasy;Niemcy
+Girl With a Pearl Earring;2003;100;Dramat obyczajowy;Luksemburg
+The Cabin in the Woods;2012;95;Horror;USA
+Creed;2015;133;Dramat;USA
+How High;2001;93;Komedia;USA
+The Usual Suspects;1995;106;Kryminał;Niemcy
+The Mechanic;2011;92;Thriller;USA
+Confessions of a Shopaholic;2009;104;Komedia rom.;USA
+Sucker Punch;2011;110;Fantasy;Kanada
+Hellboy;2004;122;Fantasy;USA
+Moon;2009;97;Dramat;Wielka Brytania
+Scary Movie 4;2006;83;Komedia;USA
+Kamienie na szaniec;2014;107;Dramat;Polska
+Adams æbler;2005;94;Dramat;Dania
+Moonrise Kingdom;2012;94;Dramat;USA
+Side Effects;2013;106;Thriller;USA
+Anastasia;1997;94;Animacja;USA
+The Lucky One;2012;101;Melodramat;USA
+Taxi 3;2003;84;Komedia;Francja
+Lethal Weapon 2;1989;114;Komedia kryminalna;USA
+Lucky Number Slevin;2006;109;Komedia kryminalna;Niemcy
+The Descendants;2011;115;Dramat;USA
+Psy II: Ostatnia krew;1994;99;Sensacyjny;Polska
+The Next Three Days;2010;122;Dramat;Francja
+Lara Croft Tomb Raider: The Cradle of Life;2003;117;Przygodowy;Japonia
+A Nightmare on Elm Street;1984;91;Horror;USA
+Bride Wars;2009;89;Komedia;USA
+Insidious;2010;103;Horror;Kanada
+The Last King of Scotland;2006;123;Dramat;Wielka Brytania
+Czas surferów;2005;90;Komedia;Polska
+Unforgiven;1992;131;Western;USA
+Eyes Wide Shut;1999;159;Erotyczny;USA
+Legends of the Fall;1994;133;Melodramat;USA
+The Naked Gun: From the Files of Police Squad!;1988;85;Komedia;USA
+Ostatnia rodzina;2016;124;Biograficzny;Polska
+Cinderella Man;2005;144;Biograficzny;USA
+Plac Zbawiciela;2006;105;Dramat społeczny;Polska
+Kochaj i tańcz;2009;123;Komedia rom.;Polska
+Resident Evil: Extinction;2007;94;Horror;Australia
+Red Riding Hood;2011;100;Fantasy;Kanada
+Monster-in-Law;2005;95;Komedia rom.;Niemcy
+Collateral Beauty;2016;97;Dramat;USA
+Kołysanka;2010;95;Czarna komedia;Polska
+Up in the Air;2009;109;Dramat;USA
+GoldenEye;1995;130;Sensacyjny;USA
+Enchanted;2007;107;Familijny;USA
+The Place Beyond the Pines;2012;140;Dramat;USA
+The Iron Lady;2011;105;Biograficzny;Francja
+Wo hu cang long;2000;120;Fantasy;Chiny
+Rewers;2009;99;Czarna komedia;Polska
+Dorian Gray;2009;112;Dramat;Wielka Brytania
+Baby są jakieś inne;2011;90;Dramat;Polska
+Ile waży koń trojański?;2008;118;Komedia;Polska
+The Call;2013;94;Thriller;USA
+August Rush;2007;114;Dramat;USA
+Jasminum;2006;103;Komedia obycz.;Polska
+Insomnia;2002;118;Kryminał;Kanada
+Tengo ganas de ti;2012;124;Melodramat;Hiszpania
+Valentine's Day;2010;125;Komedia rom.;USA
+Cześć, Tereska;2001;86;Dramat;Polska
+Johnny English;2003;88;Komedia;Francja
+Star Trek Into Darkness;2013;129;Akcja;USA
+Resident Evil: Apocalypse;2004;94;Horror;Francja
+Penguins of Madagascar;2014;92;Animacja;USA
+Mulholland Dr.;2001;146;Dramat;Francja
+Volver;2006;121;Obyczajowy;Hiszpania
+Men of Honor;2000;128;Biograficzny;USA
+Dawn of the Planet of the Apes;2014;130;Dramat;USA
+The Secret Life of Pets;2016;90;Animacja;Japonia
+The Adjustment Bureau;2011;106;Thriller;USA
+Blue Jasmine;2013;98;Dramat;USA
+To Rome with Love;2012;112;Komedia rom.;Hiszpania
+The Amityville Horror;2005;90;Horror;USA
+After Earth;2013;100;Przygodowy;USA
+Män som hatar kvinnor;2009;152;Kryminał;Dania
+Mama;2013;100;Horror;Hiszpania
+Dream House;2011;92;Thriller;USA
+Leap Year;2010;100;Komedia rom.;Irlandia
+Premonition;2007;96;Dramat;USA
+10 Cloverfield Lane;2016;105;Thriller;USA
+Mission: Impossible II;2000;123;Sensacyjny;Niemcy
+Mission: Impossible - Ghost Protocol;2011;133;Sensacyjny;Czechy
+Oldeuboi;2003;120;Thriller;Korea Południowa
+Boyhood;2014;163;Dramat;USA
+Manchester by the Sea;2016;137;Dramat;USA
+Taken 3;2014;110;Sensacyjny;Francja
+Skrzydlate świnie;2010;99;Dramat;Polska
+Burlesque;2010;120;Melodramat;USA
+Crank: High Voltage;2009;96;Akcja;USA
+Felon;2008;104;Dramat;USA
+Hoodwinked!;2005;80;Animacja;USA
+Blue Valentine;2010;112;Melodramat;USA
+The Longest Ride;2015;128;Dramat;USA
+Miss Peregrine’s Home For Peculiar Children;2016;127;Fantasy;Belgia
+Karol, un Papa rimasto uomo;2006;155;Biograficzny;Kanada
+LOL;2012;97;Dramat;USA
+Wałęsa. Człowiek z nadziei;2013;127;Biograficzny;Polska
+Dlaczego nie!;2007;94;Komedia rom.;Polska
+The Hills Have Eyes;2006;107;Horror;Francja
+One Hundred and One Dalmatians;1961;79;Animacja;USA
+Con Air;1997;115;Sensacyjny;USA
+The Phantom of the Opera;2004;143;Melodramat;USA
+Komornik;2005;93;Dramat;Polska
+Blade II;2002;117;Horror;Niemcy
+Eagle Eye;2008;118;Thriller;Niemcy
+Wonder Woman;2017;141;Akcja;Chiny
+Melancholia;2011;130;Dramat;Dania
+A Perfect World;1993;138;Dramat;USA
+Carrie;2013;100;Dramat;USA
+Underworld: Awakening;2012;88;Horror;Kanada
+Max Payne;2008;100;Kryminał;Kanada
+Wrath of the Titans;2012;99;Fantasy;Hiszpania
+Jarhead;2005;123;Dramat;Niemcy
+The Insider;1999;157;Biograficzny;USA
+AVP: Alien vs. Predator;2004;101;Akcja;Czechy
+The Change-Up;2011;113;Komedia;USA
+Fantastic Four;2005;106;Przygodowy;Niemcy
+The Chronicles of Narnia: The Voyage of the Dawn Treader;2010;115;Familijny;USA
+Saw III;2006;107;Horror;Kanada
+The Longest Yard;2005;113;Komedia;USA
+The Danish Girl;2015;120;Biograficzny;Belgia
+Dirty Harry;1971;102;Kryminał;USA
+A Million Ways to Die in the West;2014;114;Komedia;USA
+Kung Fu Panda 2;2011;90;Animacja;USA
+Spirit: Stallion of the Cimarron;2002;90;Animacja;USA
+Harold & Kumar Go to White Castle;2004;88;Komedia;Kanada
+This Means War;2012;98;Akcja;USA
+The Pacifier;2005;95;Familijny;Kanada
+Beverly Hills Cop;1984;105;Komedia kryminalna;USA
+Lone Survivor;2013;121;Dramat;USA
+Co mi zrobisz, jak mnie złapiesz;1978;99;Komedia obycz.;Polska
+Wild Wild West;1999;107;Komedia;USA
+The Bridges of Madison County;1995;135;Melodramat;USA
+The Mask of Zorro;1998;136;Przygodowy;Niemcy
+Orphan;2009;123;Thriller;Francja
+1920 Bitwa Warszawska;2011;110;Dramat;Polska
+The Graduate;1967;105;Dramat obyczajowy;USA
+The Descent;2005;99;Horror;Wielka Brytania
+Two Weeks Notice;2002;101;Komedia rom.;Australia
+Green Lantern;2011;114;Akcja;USA
+Mr. Bean's Holiday;2007;89;Familijny;Francja
+Killers;2010;100;Akcja;USA
+Spring Breakers;2012;92;Dramat;USA
+Meet the Spartans;2008;84;Komedia;USA
+The Men Who Stare at Goats;2009;93;Komedia;USA
+Dunkirk;2017;106;Dramat;Francja
+Self/less;2015;116;Thriller;USA
+American Pie Presents Band Camp;2005;95;Komedia;USA
+A Single Man;2009;99;Dramat;USA
+Erin Brockovich;2000;130;Dramat;USA
+Rocky IV;1985;91;Dramat;USA
+Puss in Boots;2011;90;Animacja;USA
+Julie & Julia;2009;123;Biograficzny;USA
+Potop;1974;316;Historyczny;Polska
+A Bug's Life;1998;96;Animacja;USA
+Sztuka kochania. Historia Michaliny Wisłockiej;2017;117;Biograficzny;Polska
+The Dressmaker;2015;118;Dramat;Australia
+Spy Game;2001;126;Sensacyjny;Francja
+Big Love;2012;100;Melodramat;Polska
+Godzilla;2014;123;Akcja;Japonia
+Me, Myself & Irene;2000;116;Komedia;USA
+The Simpsons Movie;2007;87;Animacja;USA
+Riddick;2013;119;Akcja;USA
+Sex and the City;2008;145;Dramat;USA
+Death at a Funeral;2007;90;Komedia;Holandia
+The Little Mermaid;1989;83;Animacja;USA
+Sex Tape;2014;94;Komedia;USA
+Face/Off;1997;138;Sensacyjny;USA
+Shame;2011;101;Dramat;Wielka Brytania
+South Park: Bigger, Longer & Uncut;1999;81;Animacja;USA
+Sęp;2012;133;Kryminał;Polska
+Rambo;2008;92;Akcja;Niemcy
+47 Ronin;2013;119;Fantasy;USA
+The Rum Diary;2011;120;Dramat;USA
+Batman Forever;1995;122;Fantasy;USA
+Frida;2002;123;Biograficzny;Kanada
+Bridesmaids;2011;125;Komedia rom.;USA
+C.K. Dezerterzy;1985;152;Komedia;Polska
+Shall We Dance;2004;106;Komedia rom.;USA
+28 Days Later...;2002;113;Horror;Wielka Brytania
+Eragon;2006;104;Familijny;USA
+The Way Back;2010;133;Przygodowy;Polska
+Shichinin no samurai;1954;203;Dramat;Japonia
+Ghosts of Girlfriends Past;2009;100;Komedia rom.;USA
+We Were Soldiers;2002;135;Dramat;Niemcy
+Ender's Game;2013;114;Akcja;USA
+Lemony Snicket's A Series of Unfortunate Events;2004;105;Familijny;Niemcy
+Baby Driver;2017;113;Komedia;USA
+Runaway Bride;1999;116;Komedia rom.;USA
+Moneyball;2011;133;Biograficzny;USA
+Music and Lyrics;2007;96;Komedia rom.;USA
+Lethal Weapon 3;1992;116;Komedia kryminalna;USA
+Yuma;2012;113;Dramat;Czechy
+The Road;2009;111;Thriller;USA
+Tinker Tailor Soldier Spy;2011;127;Thriller;Francja
+Contact;1997;153;Dramat;USA
+Body of Lies;2008;128;Sensacyjny;USA
+Disturbia;2007;105;Thriller;USA
+The Book Thief;2013;131;Dramat;Niemcy
+What to Expect When You're Expecting;2012;110;Dramat;USA
+Bean;1997;90;Komedia;USA
+Die Unendliche Geschichte;1984;102;Baśń;USA
+The Other Woman;2014;109;Komedia;USA
+Rocky III;1982;99;Dramat;USA
+Rise of the Guardians;2012;97;Animacja;USA
+Night at the Museum: Battle of the Smithsonian;2009;107;Familijny;Kanada
+The Nightmare Before Christmas;1993;76;Animacja;USA
+Open Season;2006;83;Animacja;USA
+Galimatias, czyli kogel-mogel II;1989;93;Komedia obycz.;Polska
+Step Up 3D;2010;107;Romans;USA
+An Education;2009;95;Dramat;USA
+Escape Plan;2013;116;Thriller;USA
+Once Upon a Time in Mexico;2003;101;Akcja;USA
+Bejbi blues;2012;105;Dramat obyczajowy;Polska
+King Arthur: Legend of the Sword;2017;126;Dramat;Australia
+Battleship;2012;131;Sci-Fi;USA
+Sleepless in Seattle;1993;105;Dramat;USA
+The Brothers Grimm;2005;118;Fantasy;Czechy
+Safe Haven;2013;115;Melodramat;USA
+So weit die Füße tragen;2001;158;Dramat;Niemcy
+Still Alice;2014;99;Dramat;Francja
+Grown Ups 2;2013;101;Komedia;USA
+Malèna;2000;109;Dramat;USA
+The Golden Compass;2007;113;Fantasy;USA
+Vabank II, czyli riposta;1984;97;Komedia kryminalna;Polska
+Need for Speed;2014;130;Akcja;Francja
+House of Wax;2005;113;Horror;Australia
+Olympus Has Fallen;2013;120;Thriller;USA
+Charlie's Angels;2000;98;Komedia;Niemcy
+Nymphomaniac;2013;122;Dramat;Belgia
+Naked Gun 33 1/3: The Final Insult;1994;83;Komedia;USA
+Joy;2015;124;Biograficzny;USA
+Rocky Balboa;2006;102;Dramat;USA
+Tenacious D in The Pick of Destiny;2006;93;Komedia;Niemcy
+Le petit prince;2015;108;Animacja;Francja
+Children of Men;2006;109;Dramat;USA
+Die Another Day;2002;133;Sensacyjny;USA
+Dude, Where's My Car?;2000;83;Komedia;USA
+War Dogs;2016;114;Komedia;USA
+Eat Pray Love;2010;133;Melodramat;USA
+How the Grinch Stole Christmas;2000;104;Familijny;Niemcy
+Mononoke-hime;1997;133;Fantasy;Japonia
+The Addams Family;1991;99;Czarna komedia;USA
+Warm Bodies;2013;97;Horror;USA
+Hugo;2011;127;Familijny;USA
+25th Hour;2002;135;Dramat;USA
+The Final Destination;2009;82;Horror;USA
+True Grit;2010;110;Western;USA
+There Will Be Blood;2007;158;Dramat obyczajowy;USA
+Mirrors;2008;110;Horror;Niemcy
+Todo sobre mi madre;1999;101;Dramat;Francja
+U Pana Boga za piecem;1998;100;Dramat;Polska
+Kochaj albo rzuć;1977;116;Komedia obycz.;Polska
+Planet of the Apes;2001;119;Przygodowy;USA
+A Cinderella Story;2004;95;Familijny;Kanada
+Garfield;2004;80;Animacja;USA
+Stay;2005;99;Dramat;USA
+The Fate of the Furious;2017;136;Akcja;Francja
+The Town;2010;125;Dramat;USA
+The Jacket;2005;103;Dramat;Niemcy
+Yip Man;2008;106;Biograficzny;Chiny
+Youth;2015;118;Dramat;Francja
+The Naked Gun 2½: The Smell of Fear;1991;85;Komedia;USA
+Astérix aux jeux olympiques;2008;117;Familijny;Belgia
+Kung Fury;2015;30;Komedia;Szwecja
+Amores perros;2000;153;Dramat;Meksyk
+Killer Elite;2011;116;Thriller;Australia
+The English Patient;1996;160;Melodramat;USA
+Sister Act;1992;96;Komedia;USA
+RoboCop;2014;120;Akcja;USA
+Lilo & Stitch;2002;85;Animacja;USA
+Paperman;2012;7;Animacja;USA
+Stargate;1994;121;Przygodowy;Francja
+Les douze travaux d'Astérix;1976;82;Animacja;Francja
+Robin Hood: Men in Tights;1993;104;Komedia;Francja
+Demolition Man;1993;115;Akcja;USA
+Rush Hour;1998;97;Akcja;USA
+Wrong Turn;2003;84;Horror;Niemcy
+Jackie Brown;1997;154;Kryminał;USA
+The Best of Me;2014;117;Melodramat;USA
+Searching for Sugar Man;2012;85;Biograficzny;Szwecja
+The Texas Chainsaw Massacre;2003;98;Horror;USA
+The Hunchback of Notre Dame;1996;91;Animacja;USA
+Resident Evil: Afterlife;2010;97;Horror;Francja
+The Croods;2013;98;Animacja;USA
+It's Complicated;2009;120;Komedia rom.;USA
+Fuks;1999;86;Komedia;Polska
+It's Kind of a Funny Story;2010;102;Dramat;USA
+Never Let Me Go;2010;103;Melodramat;USA
+The League of Extraordinary Gentlemen;2003;110;Fantasy;Czechy
+Wreck-It Ralph;2012;108;Animacja;USA
+Sully;2016;96;Biograficzny;USA
+The Lobster;2015;118;Thriller;Francja
+The Expendables 3;2014;126;Akcja;Francja
+The Eye;2008;97;Horror;Kanada
+Pain & Gain;2013;129;Akcja;USA
+The Sting;1973;129;Komedia kryminalna;USA
+Rambo: First Blood Part II;1985;96;Akcja;USA
+High School Musical;2006;98;Familijny;USA
+Freaky Friday;2003;97;Komedia;USA
+Nuovo cinema Paradiso;1988;123;Dramat;Francja
+The Purge;2013;85;Thriller;Francja
+Anna Karenina;2012;130;Dramat;Wielka Brytania
+Just Like Heaven;2005;95;Fantasy;USA
+A Bronx Tale;1993;121;Dramat;USA
+The Recruit;2003;115;Sensacyjny;USA
+Keith;2008;93;Melodramat;USA
+The Polar Express;2004;97;Animacja;USA
+Tarzan;1999;88;Animacja;USA
+Good Bye Lenin!;2003;121;Komedia;Niemcy
+Priest;2011;87;Horror;USA
+Mission: Impossible III;2006;126;Sensacyjny;Chiny
+American Pie Presents Beta House;2007;89;Komedia;Kanada
+Knight and Day;2010;110;Komedia;USA
+Deliver Us from Evil;2014;118;Horror;USA
+Coffee and Cigarettes;2003;96;Dramat;Japonia
+Blended;2014;117;Komedia;USA
+Doctor Dolittle;1998;85;Familijny;USA
+The Emperor's New Groove;2000;78;Animacja;USA
+Hable con ella;2002;112;Dramat;Hiszpania
+Man on a Ledge;2012;102;Thriller;USA
+The Grudge;2004;92;Horror;Japonia
+Legend;2015;131;Biograficzny;Francja
+Jurassic Park III;2001;92;Przygodowy;USA
+Annabelle;2014;98;Horror;USA
+The Wedding Planner;2001;103;Komedia rom.;Niemcy
+Hellboy II: The Golden Army;2008;120;Fantasy;Niemcy
+The 40 Year-Old Virgin;2005;116;Komedia rom.;USA
+American Pie Presents The Naked Mile;2006;98;Komedia;USA
+Snowpiercer;2013;126;Thriller;Czechy
+How to Be Single;2016;110;Dramat;USA
+Total Recall;1990;113;Thriller;USA
+Thelma & Louise;1991;129;Dramat;Francja
+Jupiter Ascending;2015;125;Akcja;Australia
+Scream;1996;106;Horror;USA
+W pustyni i w puszczy;2001;110;Familijny;Polska
+The Bourne Legacy;2012;135;Sensacyjny;USA
+Krótki film o zabijaniu;1987;84;Dramat;Polska
+Zero Dark Thirty;2012;157;Thriller;USA
+Hotel Transylvania 2;2015;89;Animacja;USA
+Taxi 4;2007;91;Komedia;Francja
+Lethal Weapon 4;1998;127;Komedia kryminalna;USA
+Le scaphandre et le papillon;2007;112;Biograficzny;Francja
+Terminator Genisys;2015;126;Akcja;USA
+Red 2;2013;116;Komedia;Francja
+Legally Blonde 2: Red, White & Blonde;2003;95;Komedia;USA
+The Accountant;2016;128;Dramat;USA
+Ali G Indahouse;2002;88;Komedia;Francja
+Gangster Squad;2013;113;Dramat;USA
+Beowulf;2007;113;Animacja;USA
+What a Girl Wants;2003;105;Dramat;USA
+Mirror Mirror;2012;106;Fantasy;USA
+Unleashed;2005;102;Dramat;Francja
+50/50;2011;99;Dramat;USA
+The Nanny Diaries;2007;106;Dramat;USA
+Only Lovers Left Alive;2013;122;Horror;Francja
+Pitch Perfect;2012;112;Komedia rom.;USA
+Anger Management;2003;106;Dramat;USA
+Lost Highway;1997;135;Dramat;Francja
+Jutro idziemy do kina;2007;101;Melodramat;Polska
+New Year's Eve;2011;118;Komedia rom.;USA
+3:10 to Yuma;2007;122;Western;USA
+Hostel;2005;94;Horror;USA
+Bolt;2008;96;Animacja;USA
+From Hell;2001;122;Kryminał;USA
+The Lincoln Lawyer;2011;118;Kryminał;USA
+Fiddler on the Roof;1971;181;Dramat;USA
+Moonlight;2016;111;Dramat;USA
+Colombiana;2011;107;Dramat;Francja
+Różyczka;2010;118;Dramat;Polska
+Ghost in the Shell;2017;106;Thriller;USA
+Blade: Trinity;2004;113;Horror;USA
+Brunet wieczorową porą;1976;89;Komedia kryminalna;Polska
+What We Do in the Shadows;2014;86;Horror;Nowa Zelandia
+Movie 43;2012;90;Komedia;USA
+Catwoman;2004;104;Fantasy;Australia
+Trzy kolory: Niebieski;1993;100;Melodramat;Francja
+Quo vadis;2001;160;Historyczny;Polska
+L.A. Confidential;1997;138;Kryminał;USA
+Escape from Alcatraz;1979;112;Dramat;USA
+Let's Be Cops;2014;104;Komedia;USA
+The Guardian;2006;139;Dramat;USA
+The Crow;1994;102;Fantasy;USA
+While You Were Sleeping;1995;103;Komedia rom.;USA
+Antichrist;2009;108;Dramat;Dania
+Czarny Czwartek. Janek Wiśniewski padł;2011;105;Dramat;Polska
+The Time Traveler's Wife;2009;107;Fantasy;USA
+Flightplan;2005;98;Thriller;USA
+Before I Go to Sleep;2014;92;Dramat;Francja
+Willow;1988;126;Fantasy;USA
+Cloverfield;2008;85;Akcja;USA
+Begin Again;2013;104;Dramat;USA
+Predestination;2014;97;Thriller;Australia
+Assassin's Creed;2016;115;Przygodowy;Francja
+Wild Hogs;2007;99;Komedia;USA
+Kôkaku kidôtai;1995;82;Akcja;Japonia
+Case 39;2009;109;Horror;Kanada
+Wicker Park;2004;115;Dramat;Kanada
+Bad Moms;2016;101;Komedia;USA
+Batman & Robin;1997;125;Fantasy;USA
+Definitely, Maybe;2008;112;Dramat;Francja
+Valkyrie;2008;121;Biograficzny;Niemcy
+Paranormal Activity 2;2010;91;Horror;USA
+Collateral;2004;120;Dramat;USA
+Over the Hedge;2006;83;Animacja;USA
+Seven Psychopaths;2012;109;Komedia kryminalna;Wielka Brytania
+Exodus: Gods and Kings;2014;150;Dramat;Hiszpania
+Seven Psychopaths;2012;109;Komedia kryminalna;Wielka Brytania
+It;2017;135;Horror;Kanada
+Kong: Skull Island;2017;118;Fantasy;Australia
+The Grey;2011;117;Dramat;USA
+Spider-Man: Homecoming;2017;133;Akcja;USA
+Jack Reacher;2012;130;Kryminał;USA
+The Whole Nine Yards;2000;110;Komedia kryminalna;USA
+Moana;2016;113;Animacja;USA
+Tears of the Sun;2003;121;Dramat;USA
+Megamind;2010;96;Animacja;USA
+Pogoda na jutro;2003;94;Dramat;Polska
+RocknRolla;2008;114;Kryminał;Wielka Brytania
+The Break-Up;2006;105;Komedia obycz.;USA
+Happy Feet;2006;109;Animacja;Australia
+Oz: The Great and Powerful;2013;127;Fantasy;USA
+A Knight's Tale;2001;132;Komedia;USA
+Rozmowy kontrolowane;1991;93;Komedia;Polska
+Alice Through the Looking Glass;2016;108;Familijny;USA
+Mad Max;1979;93;Sensacyjny;Australia
+Świadek koronny;2007;97;Melodramat;Polska
+Spy Kids;2001;88;Familijny;USA
+Wkręceni;2013;100;Komedia;Polska
+Tomorrow Never Dies;1997;119;Sensacyjny;USA
+That Awkward Moment;2014;94;Komedia rom.;USA
+The Constant Gardener;2005;129;Melodramat;Chiny
+The 13th Warrior;1999;102;Kostiumowy;USA
+Concussion;2015;123;Dramat;Australia
+Sin City: A Dame to Kill For;2014;102;Kryminał;USA
+13 Going On 30;2004;98;Fantasy;USA
+Tango & Cash;1989;104;Komedia;USA
+We Bought a Zoo;2011;124;Dramat;USA
+Mission: Impossible - Rogue Nation;2015;131;Sensacyjny;Chiny
+Mój rower;2012;90;Dramat;Polska
+Chinatown;1974;135;Kryminał;USA
+Saw IV;2007;95;Horror;Kanada
+The Mummy: Tomb of the Dragon Emperor;2008;112;Fantasy;Niemcy
+The Last House on the Left;2009;110;Thriller;USA
+Shutter;2004;92;Horror;Tajlandia
+Hair;1979;121;Musical;USA
+Pręgi;2004;91;Dramat obyczajowy;Polska
+Paper Towns;2015;109;Melodramat;USA
+Finding Dory;2016;103;Animacja;USA
+The Talented Mr. Ripley;1999;139;Dramat;USA
+Ziarno prawdy;2015;110;Kryminał;Polska
+Ja wam pokażę!;2006;113;Komedia rom.;Polska
+San Andreas;2015;114;Katastroficzny;Australia
+Little Fockers;2010;98;Komedia;USA
+Babylon A.D.;2008;101;Thriller;Francja
+Abduction;2011;106;Thriller;USA
+Stuart Little;1999;84;Familijny;Niemcy
+Sing;2016;110;Animacja;Japonia
+Buried;2010;95;Thriller;Francja
+I Origins;2014;113;Dramat;USA
+Annie Hall;1977;93;Komedia obycz.;USA
+Kac Wawa;2011;100;Komedia;Polska
+Highlander;1986;116;Fantasy;USA
+The Last Witch Hunter;2015;106;Fantasy;Chiny
+Ronin;1998;121;Sensacyjny;USA
+Immortals;2011;110;Fantasy;USA
+9;2009;79;Animacja;USA
+Hotel Rwanda;2004;121;Biograficzny;RPA
+Harold & Kumar Escape from Guantanamo Bay;2008;102;Komedia;USA
+R.I.P.D.;2013;96;Komedia;USA
+Crna mačka, beli mačor;1998;120;Komedia rom.;Austria
+Frankenweenie;2012;87;Animacja;USA
+Unbreakable;2000;106;Thriller;USA
+Step Up Revolution;2012;99;Melodramat;USA
+Ying Xiong;2002;99;Dramat;Chiny
+Picnic at Hanging Rock;1975;110;Dramat;Australia
+Picnic at Hanging Rock;1975;110;Dramat;Australia
+Pandorum;2009;108;Horror;Niemcy
+Dogville;2003;178;Dramat;Dania
+Carte Blanche;2015;106;Dramat obyczajowy;Polska
+The Dreamers;2003;115;Dramat;Francja
+Francuski numer;2006;99;Komedia;Polska
+The Princess Diaries 2: Royal Engagement;2004;113;Komedia rom.;USA
+Shrek the Halls;2007;21;Animacja;USA
+4: Rise of the Silver Surfer;2007;92;Przygodowy;Niemcy
+Honey;2003;94;Melodramat;USA
+Raging Bull;1980;129;Biograficzny;USA
+My Week with Marilyn;2011;99;Biograficzny;USA
+Cowboys & Aliens;2011;118;Western;USA
+Predators;2010;107;Akcja;USA
+The Experiment;2010;96;Thriller;USA
+Stoker;2013;98;Thriller;USA
+A Lot Like Love;2005;107;Dramat;USA
+To nie tak jak myślisz, kotku;2008;101;Komedia;Polska
+Big Eyes;2014;105;Biograficzny;USA
+The Huntsman: Winter's War;2016;114;Fantasy;USA
+Brooklyn;2015;105;Melodramat;Irlandia
+Monster;2003;109;Biograficzny;Niemcy
+Coco avant Chanel;2009;105;Biograficzny;Belgia
+Final Destination 5;2011;92;Horror;Kanada
+Sex and the City 2;2010;146;Dramat;USA
+The Queen;2006;103;Biograficzny;Francja
+The Heartbreak Kid;2007;115;Komedia rom.;USA
+The Uninvited;2009;87;Thriller;Kanada
+RoboCop;1987;102;Sensacyjny;USA
+Fifty Shades Darker;2017;115;Melodramat;USA
+The Mission;1986;126;Dramat;Wielka Brytania
+Unbroken;2014;137;Biograficzny;USA
+Chicken Run;2000;84;Animacja;Wielka Brytania
+Something Borrowed;2011;113;Dramat;USA
+White House Down;2013;131;Thriller;USA
+Bee Movie;2007;90;Animacja;USA
+That's My Boy;2012;114;Komedia;USA
+La grande bellezza;2013;142;Dramat;Francja
+Miss Congeniality 2: Armed and Fabulous;2005;115;Komedia kryminalna;Australia
+Weekend;2010;120;Sensacyjny;Polska
+The Lion King 1 1/2;2004;75;Animacja;Australia
+Colonia;2015;110;Dramat;Francja
+Extremely Loud & Incredibly Close;2011;129;Dramat;USA
+[Rec]²;2009;85;Horror;Hiszpania
+Wasabi;2001;94;Komedia kryminalna;Francja
+A Time to Kill;1996;149;Dramat;USA
+The Divergent Series: Allegiant;2016;121;Akcja;USA
+Blitz;2011;97;Kryminał;Francja
+Hulk;2003;138;Akcja;USA
+Dancer in the Dark;2000;139;Dramat;Argentyna
+The Madagascar Penguins in a Christmas Caper;2005;11;Animacja;USA
+The Bling Ring;2013;90;Dramat;Francja
+A Good Day to Die Hard;2013;97;Sensacyjny;USA
+The Smurfs;2011;103;Animacja;USA
+Australia;2008;165;Dramat;Australia
+Unstoppable;2010;99;Thriller;USA
+Alien: Covenant;2017;122;Horror;Australia
+Coraline;2009;100;Animacja;USA
+Ciało;2003;95;Czarna komedia;Polska
+Clerks.;1994;92;Komedia obycz.;USA
+Beautiful Creatures;2013;124;Fantasy;USA
+Banlieue 13: Ultimatum;2009;101;Akcja;Francja
+Look Who's Talking Too;1990;81;Familijny;USA
+Cinderella;2015;105;Familijny;USA
+The Wolfman;2010;102;Horror;USA
+No Reservations;2007;105;Dramat;Australia
+Aladdin;1992;90;Animacja;USA
+The Painted Veil;2006;125;Melodramat;Chiny
+The Legend of Zorro;2005;120;Przygodowy;USA
+The Hitman's Bodyguard;2017;118;Komedia;Chiny
+The Babadook;2014;92;Horror;Australia
+Kate & Leopold;2001;118;Fantasy;USA
+A Nightmare on Elm Street;2010;95;Horror;USA
+Abraham Lincoln: Vampire Hunter;2012;105;Fantasy;USA
+Spread;2009;97;Obyczajowy;USA
+Broken Flowers;2005;106;Dramat;Francja
+The Heat;2013;117;Komedia kryminalna;USA
+Going in Style;2017;96;Komedia;USA
+Being John Malkovich;1999;112;Surrealistyczny;USA
+The Scorpion King;2002;92;Fantasy;Belgia
+The Ring Two;2005;110;Horror;USA
+Roman Holiday;1953;118;Komedia rom.;USA
+Chaos;2005;98;Kryminał;Kanada
+Cellular;2004;94;Sensacyjny;Niemcy
+The Pelican Brief;1993;141;Thriller;USA
+33 sceny z życia;2008;100;Dramat;Niemcy
+The Words;2012;96;Dramat;USA
+In Bruges;2008;107;Dramat;USA
+Hope Springs;2012;100;Dramat;USA
+Unthinkable;2010;97;Thriller;USA
+Wild at Heart;1990;124;Kryminał;USA
+Jason Bourne;2016;123;Sensacyjny;USA
+Hysteria;2011;95;Komedia rom.;Francja
+Akademia pana Kleksa;1983;158;Dla dzieci;Polska
+Mad Max 2;1981;91;Sensacyjny;Australia
+Rambo III;1988;101;Akcja;USA
+The Magnificent Seven;2016;132;Western;USA
+Safe House;2012;115;Sensacyjny;RPA
+Rush Hour 2;2001;90;Akcja;Hongkong
+28 Weeks Later;2007;99;Horror;Hiszpania
+Cars 2;2011;106;Animacja;USA
+St. Vincent;2014;103;Komedia;USA
+Bienvenue chez les Ch'tis;2008;106;Komedia;Francja
+Les Amours imaginaires;2010;95;Melodramat;Kanada
+The Karate Kid;2010;140;Familijny;Chiny
+Charlie St. Cloud;2010;99;Fantasy;Kanada
+Mortdecai;2015;100;Komedia;USA
+Saw V;2008;92;Horror;Kanada
+Message in a Bottle;1999;131;Melodramat;USA
+Rear Window;1954;112;Psychologiczny;USA
+Daredevil;2003;104;Fantasy;USA
+Atlantis: The Lost Empire;2001;90;Animacja;USA
+Norbit;2007;102;Komedia rom.;USA
+White Oleander;2002;109;Dramat obyczajowy;USA
+Brüno;2009;83;Komedia;USA
+Nad życie;2012;90;Biograficzny;Polska
+Neighbors 2: Sorority Rising;2016;92;Komedia;USA
+Johnny English Reborn;2011;101;Komedia;Francja
+Percy Jackson: Sea of Monsters;2013;106;Familijny;USA
+The Princess and the Frog;2009;97;Animacja;USA
+Once;2006;85;Dramat;Irlandia
+Disco Polo;2015;107;Komedia;Polska
+Goal!;2005;118;Dramat obyczajowy;USA
+My Best Friend's Wedding;1997;105;Komedia rom.;USA
+Ghost Rider: Spirit of Vengeance;2011;95;Fantasy;USA
+Chernobyl Diaries;2012;90;Horror;USA
+The People vs. Larry Flynt;1996;129;Biograficzny;USA
+Chloe;2009;99;Thriller;Francja
+Hundraåringen som klev ut genom fönstret och försvann;2013;114;Przygodowy;Francja
+Life;2017;103;Thriller;USA
+Life;2017;103;Thriller;USA
+This Is The End;2013;106;Fantasy;USA
+Pixels;2015;106;Komedia;Chiny
+Legion;2010;100;Fantasy;USA
+The Three Musketeers;2011;110;Płaszcza i szpady;Francja
+Scary MoVie;2013;85;Komedia;USA
+Gamer;2009;95;Thriller;USA
+Super 8;2011;112;Thriller;USA
+Stuck in Love;2012;97;Komedia;USA
+Karbala;2015;115;Dramat;Polska
+The Punisher;2004;124;Sensacyjny;Niemcy
+Mortal Kombat;1995;101;Fantasy;USA
+A Christmas Carol;2009;96;Animacja;USA
+The Butterfly Effect 2;2006;92;Thriller;USA
+Crimson Peak;2015;119;Horror;USA
+Marie Antoinette;2006;123;Biograficzny;Francja
+The Sisterhood of the Traveling Pants;2005;119;Dla młodzieży;Grecja
+Detachment;2011;100;Dramat;USA
+Walk the Line;2005;136;Biograficzny;Niemcy
+Citizen Kane;1941;119;Dramat;USA
+American Pie Presents: The Book of Love;2009;93;Komedia;USA
+Tomorrowland;2015;130;Familijny;Hiszpania
+State of Play;2009;127;Dramat;Francja
+The Awakening;2011;107;Horror;Wielka Brytania
+Pink Floyd The Wall;1982;95;Animacja;Wielka Brytania
+Superbad;2007;114;Komedia;USA
+Dr. No;1962;110;Sensacyjny;Wielka Brytania
+Mr. Brooks;2007;120;Thriller;USA
+Pompeii;2014;102;Katastroficzny;Kanada
+La soupe aux choux;1981;98;Komedia;Francja
+Charlie's Angels: Full Throttle;2003;106;Komedia;USA
+Lola rennt;1998;81;Sensacyjny;Niemcy
+Rozmowy nocą;2008;95;Komedia rom.;Polska
+Cold Mountain;2003;148;Melodramat;USA
+Taking Lives;2004;103;Kryminał;Australia
+Chasing Liberty;2004;111;Komedia rom.;USA
+Le Gendarme de Saint-Tropez;1964;95;Komedia kryminalna;Francja
+Parker;2013;118;Sensacyjny;USA
+Munich;2005;164;Dramat;Francja
+Demain tout commence;2016;118;Dramat;Francja
+Mary and Max;2009;92;Animacja;Australia
+Anaconda;1997;89;Horror;Brazylia
+Into the Woods;2014;124;Fantasy;Kanada
+The Spectacular Now;2013;99;Dramat;USA
+Ondskan;2003;113;Dramat;Dania
+G.I. Joe: The Rise of Cobra;2009;118;Akcja;Czechy
+Big Daddy;1999;93;Dramat;USA
+The World Is Not Enough;1999;128;Sensacyjny;USA
+Treasure Planet;2002;95;Animacja;USA
+Goldfinger;1964;110;Sensacyjny;Wielka Brytania
+What's Your Number?;2011;106;Komedia rom.;USA
+Matchstick Men;2003;116;Komedia kryminalna;USA
+The Unborn;2009;87;Horror;USA
+John Wick: Chapter Two;2017;122;Thriller;USA
+Dumb and Dumber To;2014;110;Komedia;USA
+Wiedźmin;2001;130;Fantasy;Polska
+Cinderella;1950;72;Animacja;USA
+Sense and Sensibility;1995;136;Kostiumowy;USA
+The Way Way Back;2013;103;Dramat;USA
+Identity;2003;90;Thriller;USA
+Jennifer's Body;2009;107;Horror;USA
+Nóż w wodzie;1961;90;Dramat;Polska
+Kick-Ass 2;2013;103;Komedia;USA
+Blade Runner 2049;2017;163;Thriller;Kanada
+Captain Fantastic;2016;118;Dramat;USA
+High School Musical 2;2007;107;Familijny;USA
+Analyze This;1999;103;Komedia kryminalna;Australia
+Lion;2016;129;Dramat;Australia
+Around the World in 80 Days;2004;120;Komedia;Irlandia
+Crimson Tide;1995;116;Thriller;USA
+The Butterfly Circus;2009;20;Dramat;USA
+Przesłuchanie;1982;111;Dramat;Polska
+Body/Ciało;2015;89;Dramat;Polska
+The DUFF;2015;101;Komedia;USA
+Moje córki krowy;2015;88;Dramat;Polska
+Hodejegerne;2011;98;Kryminał;Niemcy
+The Happening;2008;90;Thriller;Indie
+2 Guns;2013;109;Akcja;USA
+Resident Evil: Retribution;2012;95;Horror;Francja
+Hercules;2014;98;Przygodowy;USA
+The Taking of Pelham 1 2 3;2009;106;Sensacyjny;USA
+Black Mass;2015;122;Dramat;USA
+Dredd;2012;95;Akcja;Indie
+Herbie: Fully Loaded;2005;101;Familijny;USA
+Christmas Vacation;1989;97;Komedia;USA
+Jestem mordercą;2016;107;Thriller;Polska
+Tristan + Isolde;2006;125;Historyczny;Czechy
+jOBS;2013;122;Biograficzny;Szwajcaria
+Not Another Teen Movie;2001;89;Komedia;USA
+Arizona Dream;1992;142;Dramat;Francja
+The Lego Movie;2014;100;Animacja;Australia
+Vantage Point;2008;90;Sensacyjny;USA
+A Good Year;2006;118;Obyczajowy;USA
+Jak się pozbyć cellulitu;2011;113;Komedia;Polska
+Straight Outta Compton;2015;147;Biograficzny;USA
+Ray;2004;152;Biograficzny;USA
+Paranormal Activity 3;2011;84;Horror;USA
+The Autopsy of Jane Doe;2016;86;Horror;USA
+Alvin and the Chipmunks;2007;92;Animacja;USA
+My Big Fat Greek Wedding;2002;95;Komedia rom.;Kanada
+True Romance;1993;120;Kryminał;Francja
+Singin' in the Rain;1952;103;Komedia;USA
+The Switch;2010;102;Komedia rom.;USA
+Out of Africa;1985;150;Melodramat;USA
+The Dirty Dozen;1967;149;Wojenny;USA
+Rio;2011;96;Animacja;USA
+Road to Perdition;2002;117;Dramat;USA
+The Purge: Anarchy;2014;103;Thriller;Francja
+Hot Fuzz;2007;121;Komedia kryminalna;Francja
+The Piano;1993;121;Kostiumowy;Australia
+Kabhi Khushi Kabhie Gham...;2001;210;Melodramat;Indie
+Zack and Miri Make a Porno;2008;101;Komedia rom.;USA
+Scoop;2006;96;Komedia kryminalna;USA
+Lolita;1997;137;Dramat;Francja
+Who Am I - Kein System ist sicher;2014;105;Thriller;Niemcy
+Safe;2012;94;Kryminał;USA
+My Girl;1991;102;Familijny;USA
+Miłość na wybiegu;2009;93;Komedia rom.;Polska
+The Back-Up Plan;2010;104;Komedia rom.;USA
+Vampires Suck;2010;82;Komedia;USA
+Independence Day: Resurgence;2016;120;Akcja;USA
+The Interview;2014;112;Komedia;USA
+The Human Centipede (First Sequence);2009;90;Horror;Holandia
+The Thing;2011;103;Horror;Kanada
+I Love You Phillip Morris;2009;102;Dramat;Francja
+The Artist;2011;100;Dramat;Belgia
+Diario de una ninfómana;2008;95;Dramat;Hiszpania
+Battle: Los Angeles;2011;116;Akcja;USA
+Fantastic Mr. Fox;2009;87;Animacja;USA
+7 rzeczy, których nie wiecie o facetach;2016;120;Komedia obycz.;Polska
+Lincz;2010;78;Thriller;Polska
+I Know What You Did Last Summer;1997;100;Horror;USA
+Tonari no Totoro;1988;85;Familijny;Japonia
+God's Not Dead;2014;112;Dramat;USA
+Hook;1991;144;Familijny;USA
+Don't Breathe;2016;88;Thriller;USA
+A Long Way Down;2014;96;Dramat;Niemcy
+I Spit on Your Grave;2010;108;Thriller;USA
+Driving Miss Daisy;1989;99;Dramat;USA
+All Dogs Go to Heaven;1989;89;Animacja;Irlandia
+The Elephant Man;1980;125;Biograficzny;USA
+The Count of Monte Cristo;2002;131;Kostiumowy;Irlandia
+La Double vie de Véronique;1991;98;Dramat;Francja
+Nine;2009;112;Dramat;USA
+Ghostbusters II;1989;108;Horror;USA
+The Perfect Storm;2000;130;Dramat;USA
+Doubt;2008;104;Dramat obyczajowy;USA
+Det sjunde inseglet;1957;96;Dramat;Szwecja
+Lights Out;2016;81;Horror;USA
+Obława;2012;88;Thriller;Polska
+Spy Hard;1996;81;Komedia;USA
+Becoming Jane;2007;120;Biograficzny;Irlandia
+Elles;2011;96;Dramat społeczny;Francja
+Elizabeth;1998;124;Biograficzny;Wielka Brytania
+Beverly Hills Cop II;1987;100;Komedia kryminalna;USA
+Chef;2014;115;Komedia;USA
+Philomena;2013;94;Dramat;Francja
+Milk;2008;128;Biograficzny;USA
+Godzilla;1998;140;Akcja;Japonia
+Teenage Mutant Ninja Turtles;2014;101;Komedia;USA
+12 Angry Men;1997;115;Dramat sądowy;USA
+Sleeping Beauty;1959;75;Animacja;USA
+Gremlins;1984;102;Fantasy;USA
+Animowana historia Polski;2010;8;Animacja;Polska
+Twister;1996;113;Katastroficzny;USA
+Klass;2007;99;Dramat;Estonia
+Edge of Darkness;2010;117;Thriller;USA
+Les Couloirs du temps: Les visiteurs 2;1998;118;Fantasy;Francja
+Stigmata;1999;103;Horror;USA
+Push;2009;111;Thriller;Kanada
+War Horse;2011;146;Dramat;USA
+Practical Magic;1998;104;Fantasy;Australia
+A Little Bit of Heaven;2011;106;Dramat;USA
+Fool's Gold;2008;113;Komedia;USA
+You Will Meet a Tall Dark Stranger;2010;98;Komedia obycz.;Hiszpania
+Ransom;1996;116;Dramat;USA
+Lars and the Real Girl;2007;106;Dramat;Kanada
+A Few Good Men;1992;138;Dramat;USA
+Born on the Fourth of July;1989;145;Biograficzny;USA
+Hanna;2011;111;Thriller;Niemcy
+Per qualche dollaro in più;1965;130;Western;Hiszpania
+My Best Friend's Girl;2008;101;Komedia rom.;USA
+Beginners;2010;104;Dramat;USA
+The Last Airbender;2010;103;Fantasy;USA
+Zemsta;2002;100;Komedia;Polska
+The Secret Garden;1993;102;Familijny;USA
+Frost/Nixon;2008;122;Dramat;Francja
+Lincoln;2012;149;Biograficzny;USA
+The Astronaut's Wife;1999;109;Dramat;USA
+Shi Mian Mai Fu;2004;125;Kostiumowy;Chiny
+Kontroll;2003;105;Dramat;Węgry
+Indecent Proposal;1993;117;Dramat;USA
+Made of Honor;2008;101;Komedia rom.;USA
+Paycheck;2003;119;Akcja;Kanada
+Anne of Green Gables;1985;199;Familijny;Kanada
+Locke;2013;85;Dramat;USA
+Homefront;2013;100;Thriller;USA
+Bedtime Stories;2008;100;Familijny;USA
+Dangerous Liaisons;1988;119;Kostiumowy;USA
+Twardowsky;2015;9;Sci-Fi;Polska
+Kongen av Bastøy;2010;116;Dramat;Francja
+Everything Is Illuminated;2005;106;Dramat;USA
+Bloodsport;1988;92;Biograficzny;USA
+Krzyżacy;1960;166;Dramat historyczny;Polska
+Veronika Decides to Die;2009;103;Dramat;USA
+Das Leben der Anderen;2006;137;Dramat;Niemcy
+Save the Last Dance;2001;112;Dramat;USA
+Evil Dead;2013;90;Horror;USA
+Master and Commander: The Far Side of the World;2003;138;Przygodowy;USA
+The Flintstones;1994;91;Familijny;USA
+Horns;2013;123;Horror;Kanada
+Gattaca;1997;106;Melodramat;USA
+Snow White and the Seven Dwarfs;1937;83;Animacja;USA
+The Fourth Kind;2009;98;Thriller;USA
+Rocky V;1990;104;Dramat;USA
+Rush Hour 3;2007;91;Akcja;Niemcy
+Wild;2014;115;Biograficzny;USA
+Rango;2011;107;Animacja;USA
+Der Untergang;2004;160;Biograficzny;Austria
+Arthur et les Minimoys;2006;102;Animacja;Francja
+Blue Velvet;1986;120;Thriller;USA
+Insidious: Chapter 2;2013;105;Horror;Kanada
+Kiss the Girls;1997;111;Kryminał;USA
+Wyjazd integracyjny;2011;85;Komedia;Polska
+S.W.A.T.;2003;117;Sensacyjny;USA
+Fallen;1998;123;Horror;USA
+The Parent Trap;1998;123;Familijny;USA
+Hummingbird;2013;100;Dramat;USA
+A Walk Among the Tombstones;2014;114;Dramat;USA
+Twardowsky 2.0;2016;21;Sci-Fi;Polska
+Florence Foster Jenkins;2016;110;Biograficzny;USA
+Man on the Moon;1999;118;Biograficzny;Japonia
+Pułkownik Kwiatkowski;1995;123;Komedia obycz.;Polska
+The Straight Story;1999;112;Biograficzny;Francja
+Wild Child;2008;98;Komedia;Francja
+Das Boot;1981;149;Dramat;RFN
+Sztos;1997;90;Komedia;Polska
+Ghost Ship;2002;91;Horror;Australia
+Edi;2002;97;Dramat obyczajowy;Polska
+The Visit;2015;94;Horror;USA
+Le pacte des loups;2001;142;Kostiumowy;Francja
+Great Expectations;1998;111;Melodramat;USA
+Yamakasi - Les Samurai des Temps Modernes;2001;90;Dramat;Francja
+Ed Wood;1994;124;Biograficzny;USA
+Śniadanie do łóżka;2010;85;Komedia rom.;Polska
+Ziemia obiecana;1974;179;Obyczajowy;Polska
+Dzień dobry, kocham cię!;2014;93;Komedia rom.;Polska
+Magic in the Moonlight;2014;97;Komedia;USA
+Angel Heart;1987;113;Horror;Kanada
+The Possession;2012;92;Horror;Kanada
+Idealny facet dla mojej dziewczyny;2009;128;Komedia;Polska
+Seventh Son;2014;102;Familijny;Chiny
+Street Kings;2008;109;Sensacyjny;USA
+The Big Wedding;2013;90;Komedia;USA
+Astérix et Obélix: Au Service de Sa Majesté;2012;110;Familijny;Francja
+Hard Candy;2005;103;Thriller;USA
+The School of Rock;2003;108;Komedia;Niemcy
+Incendies;2010;130;Dramat;Francja
+Good Luck Chuck;2007;96;Komedia rom.;Kanada
+Undisputed III: Redemption;2010;96;Dramat;USA
+Delivery Man;2013;103;Dramat;USA
+Breaking the Waves;1996;159;Dramat;Dania
+Child 44;2015;137;Dramat;Czechy
+Filth;2013;97;Dramat;Belgia
+The Strangers;2008;85;Horror;USA
+My Blueberry Nights;2007;95;Romans;Chiny
+8MM;1999;123;Thriller;Niemcy
+Failure to Launch;2006;97;Komedia rom.;USA
+Big Momma's House;2000;98;Komedia;Niemcy
+Don Juan DeMarco;1994;97;Dramat;USA
+French Kiss;1995;111;Komedia rom.;USA
+Fantastic Four;2015;100;Akcja;USA
+Last Minute;2013;82;Komedia;Polska
+The 5th Wave;2016;112;Przygodowy;USA
+Contagion;2011;105;Dramat;USA
+DragonHeart;1996;103;Fantasy;USA
+And Now for Something Completely Different;1971;85;Komedia;Wielka Brytania
+Saving Mr. Banks;2013;126;Biograficzny;Australia
+Saw VI;2009;95;Horror;Australia
+A Dangerous Method;2011;99;Biograficzny;Kanada
+The Last Castle;2001;130;Dramat;USA
+Amour;2012;126;Melodramat;Austria
+Jane Eyre;2011;120;Kostiumowy;USA
+The Road to El Dorado;2000;90;Animacja;USA
+Vacation;2015;99;Komedia;USA
+Get the Gringo;2012;97;Dramat;USA
+Frantic;1988;120;Dramat;Francja
+Green Zone;2010;115;Dramat;Francja
+Dogma;1999;130;Fantasy;USA
+Scott Pilgrim vs. the World;2010;112;Fantasy;Japonia
+Romancing the Stone;1984;105;Przygodowy;Meksyk
+This Must Be the Place;2011;118;Dramat;Francja
+The Nymphomaniac Part 2;2013;123;Dramat;Belgia
+Oculus;2013;103;Horror;USA
+Los Abrazos rotos;2009;128;Thriller;Hiszpania
+Hide and Seek;2005;100;Thriller;Niemcy
+Shanghai Knights;2003;114;Komedia;Hongkong
+High School Musical 3: Senior Year;2008;112;Familijny;USA
+Botoks;2017;135;Thriller;Polska
+Chronicle;2012;83;Dramat;USA
+Iron Sky;2012;93;Komedia;Australia
+Wrongfully Accused;1998;87;Komedia;Niemcy
+The Midnight Meat Train;2008;89;Horror;USA
+From Russia with Love;1963;115;Sensacyjny;Wielka Brytania
+Eliza Graves;2014;112;Thriller;USA
+Hotaru no Haka;1988;89;Dramat;Japonia
+Vincent;1982;6;Animacja;USA
+The Jungle Book;2016;105;Przygodowy;USA
+Forgetting Sarah Marshall;2008;112;Komedia rom.;USA
+The Assassination of Jesse James by the Coward Robert Ford;2007;160;Biograficzny;Kanada
+Airplane!;1980;88;Komedia;USA
+From Paris with Love;2010;92;Akcja;Francja
+La Pianiste;2001;131;Dramat;Austria
+Baywatch;2017;116;Komedia;USA
+30 Days of Night;2007;113;Horror;Nowa Zelandia
+Two Night Stand;2014;86;Komedia rom.;USA
+The Kingdom;2007;110;Dramat;Niemcy
+The Loft;2014;108;Thriller;Belgia
+Leaving Las Vegas;1995;112;Melodramat;USA
+In the Name of the Father;1993;133;Biograficzny;Irlandia
+Reign of Fire;2002;105;Fantasy;Irlandia
+Shaun of the Dead;2004;99;Horror;Francja
+London Has Fallen;2016;99;Thriller;USA
+Deepwater Horizon;2016;107;Katastroficzny;USA
+C'era una volta il West;1968;165;Western;USA
+Drive Angry;2011;104;Fantasy;USA
+Trzy kolory: Biały;1994;91;Dramat;Francja
+Starship Troopers;1997;129;Akcja;USA
+The Mummy;2017;110;Fantasy;USA
+Café Society;2016;96;Komedia;USA
+Heaven Is for Real;2014;100;Dramat;USA
+Cloudy with a Chance of Meatballs;2009;90;Animacja;USA
+Surf's Up;2007;85;Animacja;USA
+Junior;1994;109;Komedia;USA
+AVPR: Aliens vs Predator - Requiem;2007;94;Akcja;USA
+Swordfish;2001;99;Sensacyjny;Australia
+Star Trek Beyond;2016;120;Akcja;USA
+Contraband;2012;109;Thriller;Francja
+Christiane F. - Wir Kinder vom Bahnhof Zoo;1981;138;Dramat obyczajowy;RFN
+The Boondock Saints II: All Saints Day;2009;118;Kryminał;USA
+Shanghai Noon;2000;110;Komedia;Hongkong
+Kung Fu Panda 3;2016;95;Animacja;Chiny
+Keeping the Faith;2000;128;Komedia rom.;USA
+Hidden Figures;2016;127;Dramat;USA
+La môme;2007;140;Biograficzny;Czechy
+The Brothers Grimsby;2016;82;Komedia;Australia
+U Pana Boga w ogródku;2007;115;Komedia kryminalna;Polska
+Devil;2010;80;Horror;USA
+Ringu;1998;95;Horror;Japonia
+Dead Man;1995;121;Dramat;Japonia
+True Lies;1994;144;Komedia;USA
+Morning Glory;2010;107;Dramat;USA
+J'ai tué ma mère;2009;96;Biograficzny;Kanada
+Ghost Dog: The Way of the Samurai;1999;116;Dramat;Francja
+The Cable Guy;1996;96;Czarna komedia;USA
+Because I Said So;2007;102;Komedia rom.;USA
+Das Experiment;2001;119;Dramat;Niemcy
+Chicken Little;2005;77;Animacja;USA
+Patch Adams;1998;116;Biograficzny;USA
+Demony wojny wg Goi;1998;97;Dramat;Polska
+Los Ojos de Julia;2010;112;Thriller;Hiszpania
+Under the Tuscan Sun;2003;113;Obyczajowy;USA
+Spy Kids 3-D: Game Over;2003;84;Dla dzieci;USA
+Żółty szalik;2000;59;Dramat;Polska
+Daybreakers;2009;98;Horror;Australia
+Hot Shots!;1991;84;Komedia;USA
+Get Smart;2008;110;Komedia;USA
+The World's Fastest Indian;2005;127;Biograficzny;Japonia
+The Legend of Tarzan;2016;109;Przygodowy;USA
+Trois couleurs: Rouge;1994;99;Dramat;Francja
+Take the Lead;2006;108;Dramat;USA
+Casanova;2005;112;Kostiumowy;USA
+Conan the Barbarian;1982;129;Fantasy;USA
+Amy;2015;127;Biograficzny;USA
+80 milionów;2011;102;Sensacyjny;Polska
+The Haunting in Connecticut;2009;102;Horror;Kanada
+The Horse Whisperer;1998;170;Melodramat;USA
+A Thousand Words;2012;91;Dramat;USA
+Irrational Man;2015;96;Dramat;USA
+The Color Purple;1985;154;Dramat obyczajowy;USA
+Endless Love;2014;103;Melodramat;USA
+Another Cinderella Story;2008;92;Musical;Kanada
+Along Came Polly;2004;90;Komedia rom.;USA
+Mandariinid;2013;90;Dramat;Gruzja
+Paulette;2012;90;Komedia kryminalna;Francja
+The Virgin Suicides;1999;96;Dramat;USA
+Boisko bezdomnych;2008;126;Obyczajowy;Polska
+Twin Peaks: Fire Walk with Me;1992;135;Dramat;Francja
+Kindergarten Cop;1990;106;Komedia kryminalna;USA
+Easy Rider;1969;94;Dramat obyczajowy;USA
+Braindead;1992;104;Horror;Nowa Zelandia
+Coyote Ugly;2000;100;Dramat;USA
+Splice;2009;107;Thriller;Francja
+Allied;2016;124;Melodramat;USA
+A Few Best Men;2011;96;Komedia;Australia
+The Rebound;2009;97;Komedia rom.;USA
+Outbreak;1995;123;Dramat;USA
+The Family;2013;111;Komedia kryminalna;Francja
+G.I. Jane;1997;124;Dramat;USA
+Valiant;2005;75;Animacja;USA
+Kelly's Heroes;1970;143;Komedia;Jugosławia
+Showtime;2002;95;Komedia kryminalna;Australia
+It Follows;2014;100;Horror;USA
+Heartbreakers;2001;118;Kryminał;USA
+Gone;2012;94;Thriller;USA
+Imagine;2012;105;Dramat;Francja
+Hot Tub Time Machine;2010;101;Komedia;USA
+Per un pugno di dollari;1964;99;Western;Hiszpania
+I Now Pronounce You Chuck and Larry;2007;110;Komedia rom.;USA
+Flickan som lekte med elden, Millennium part 2;2009;129;Kryminał;Dania
+Spy Kids 2: Island of Lost Dreams;2002;99;Familijny;USA
+Conan the Barbarian;2011;113;Fantasy;USA
+Queen of the Damned;2002;101;Horror;Australia
+Antz;1998;83;Animacja;USA
+Why Him?;2016;111;Komedia;USA
+Joan of Arc;1999;152;Biograficzny;Francja
+Drag Me to Hell;2009;99;Horror;USA
+Magic Mike XXL;2015;115;Komedia;USA
+Popiełuszko. Wolność jest w nas;2009;150;Biograficzny;Polska
+Journey 2: The Mysterious Island;2012;94;Familijny;USA
+21 and Over;2013;93;Komedia;USA
+Nutty Professor II: The Klumps;2000;106;Komedia;USA
+Jack the Giant Slayer;2013;114;Fantasy;USA
+The Witches of Eastwick;1987;118;Fantasy;USA
+Wuthering Heights;1992;105;Kostiumowy;USA
+Snowden;2016;134;Biograficzny;Francja
+To ja, złodziej;2000;100;Dramat;Polska
+Control;2007;121;Biograficzny;Australia
+Pitch Perfect 2;2015;115;Komedia;USA
+Młode wilki;1995;95;Sensacyjny;Polska
+The Prince & Me;2004;111;Komedia rom.;Czechy
+Kiss Kiss Bang Bang;2005;103;Akcja;USA
+The Time Machine;2002;96;Przygodowy;USA
+A Bridge Too Far;1977;175;Dramat;USA
+Cape Fear;1991;128;Thriller;USA
+A Perfect Murder;1998;107;Kryminał;USA
+Wszystko będzie dobrze;2007;98;Dramat obyczajowy;Polska
+You, Me and Dupree;2006;108;Komedia rom.;USA
+Hitchcock;2012;98;Biograficzny;USA
+Dawn of the Dead;2004;97;Horror;Francja
+We Are Your Friends;2015;96;Dramat;Francja
+Monsters vs. Aliens;2009;98;Animacja;USA
+Perfect Sense;2011;88;Melodramat;Dania
+Repo Men;2010;111;Thriller;Kanada
+The Magnificent Seven;1960;128;Western;USA
+Irréversible;2002;97;Dramat;Francja
+The Kings of Summer;2013;93;Dramat;USA
+Hall Pass;2011;105;Komedia;USA
+The Omen;2006;110;Horror;USA
+Margin Call;2011;105;Dramat;USA
+A Serious Man;2009;105;Czarna komedia;Francja
+Magnolia;1999;188;Dramat;USA
+Cassandra's Dream;2007;108;Dramat;Francja
+The Guns of Navarone;1961;158;Wojenny;USA
+Le Petit Nicolas;2009;91;Familijny;Francja
+Celda 211;2009;113;Dramat;Francja
+The First Time;2012;95;Dramat;USA
+Before Sunrise;1995;100;Dramat;Austria
+Shelter;2010;112;Horror;USA
+Jerry Maguire;1996;139;Obyczajowy;USA
+Sinister 2;2015;97;Horror;USA
+Fried Green Tomatoes;1991;130;Dramat;USA
+Rumor Has It...;2005;96;Dramat;Australia
+Money Monster;2016;98;Thriller;USA
+Hostage;2005;113;Thriller;Niemcy
+Trainwreck;2015;125;Komedia;Japonia
+16 Blocks;2006;105;Sensacyjny;Niemcy
+The Skeleton Key;2005;104;Thriller;Niemcy
+Beastly;2011;86;Fantasy;USA
+Thir13en Ghosts;2001;91;Horror;Kanada
+The Jackal;1997;124;Sensacyjny;Francja
+Revolver;2005;115;Dramat;Francja
+Carrie;1976;98;Horror;USA
+Night on Earth;1991;129;Dramat;Francja
+When Harry Met Sally...;1989;96;Komedia rom.;USA
+The Kids Are All Right;2010;104;Dramat;USA
+Gods of Egypt;2016;128;Fantasy;Australia
+G.I. Joe: Retaliation;2013;110;Akcja;USA
+Look Who's Talking Now;1993;96;Familijny;USA
+The Art of Getting By;2011;84;Melodramat;USA
+Sunshine;2007;107;Sci-Fi;USA
+Show;2003;129;Komedia;Polska
+Wymyk;2011;85;Dramat obyczajowy;Polska
+Demolition;2015;101;Dramat;USA
+Sweet Home Alabama;2002;108;Komedia rom.;USA
+Carol;2015;118;Melodramat;USA
+The Witch;2015;90;Horror;Brazylia
+The Tree of Life;2011;138;Dramat;USA
+The Counselor;2013;111;Dramat;USA
+Jay and Silent Bob Strike Back;2001;104;Komedia;USA
+Air Force One;1997;124;Sensacyjny;Niemcy
+Epic Movie;2007;86;Komedia;USA
+Macbeth;2015;113;Dramat;Francja
+Śluby panieńskie;2010;100;Komedia;Polska
+Jackass 3D;2010;94;Akcja;USA
+The Hitchhiker's Guide to the Galaxy;2005;109;Komedia;USA
+Elizabeth: The Golden Age;2007;114;Biograficzny;Francja
+Happy Gilmore;1996;92;Komedia;USA
+Beethoven;1992;87;Familijny;USA
+The Perfect Man;2005;100;Dramat;USA
+Gadające głowy;1980;14;Dokumentalny;Polska
+A Streetcar Named Desire;1951;122;Melodramat;USA
+View from the Top;2003;87;Obyczajowy;USA
+10,000 BC;2008;109;Przygodowy;RPA
+Conspiracy Theory;1997;135;Sensacyjny;USA
+Machete Kills;2013;107;Akcja;Rosja
+Låt den rätte komma in;2008;114;Horror;Szwecja
+The Boy;2016;97;Horror;USA
+The House of the Spirits;1993;140;Dramat;Dania
+Underground;1995;163;Dramat;Czechy
+Hot Shots! Part Deux;1993;86;Komedia;USA
+Trading Places;1983;118;Komedia;USA
+The Forest;2016;93;Horror;USA
+Bronson;2008;92;Biograficzny;Wielka Brytania
+Raise Your Voice;2004;103;Familijny;USA
+Blindness;2008;120;Dramat;Brazylia
+She's All That;1999;95;Komedia rom.;USA
+Only God Forgives;2013;90;Kryminał;Dania
+You Only Live Twice;1967;117;Sensacyjny;Wielka Brytania
+Seeking Justice;2011;108;Thriller;USA
+House at the End of the Street;2012;101;Thriller;Kanada
+Mulan II;2004;79;Animacja;USA
+Cube 2: Hypercube;2002;95;Thriller;Kanada
+The Founder;2016;115;Biograficzny;USA
+Camp Rock;2008;94;Familijny;USA
+Kroll;1991;101;Dramat;Polska
+Saw 3D;2010;90;Horror;Kanada
+Gnomeo and Juliet;2011;84;Animacja;USA
+88 Minutes;2007;110;Thriller;Kanada
+Gifted;2017;101;Dramat;USA
+Speed 2: Cruise Control;1997;126;Sensacyjny;USA
+Wielki Szu;1982;96;Dramat;Polska
+Persepolis;2007;95;Animacja;Francja
+Machine Gun Preacher;2011;127;Biograficzny;USA
+Miami Vice;2006;134;Sensacyjny;Niemcy
+L'aile ou la cuisse;1976;104;Komedia;Francja
+Central Intelligence;2016;114;Komedia;USA
+The Score;2001;123;Kryminał;Niemcy
+Bandidas;2006;93;Komedia;Francja
+Just Visiting;2001;88;Fantasy;Francja
+Jacob's Ladder;1990;115;Horror;USA
+The Walk;2015;123;Biograficzny;USA
+Event Horizon;1997;95;Horror;USA
+The Hills Have Eyes II;2007;89;Horror;USA
+Exit Through the Gift Shop;2010;87;Komedia dokumentalna;USA
+W imię...;2013;96;Dramat obyczajowy;Polska
+Jeepers Creepers;2001;90;Horror;Niemcy
+Steve Jobs;2015;122;Biograficzny;USA
+Tucker and Dale vs. Evil;2010;89;Czarna komedia;Indie
+The Hundred-Foot Journey;2014;122;Dramat;Indie
+Twins;1988;107;Komedia;USA
+La vie d'Adèle;2013;179;Dramat;Belgia
+Diamonds Are Forever;1971;120;Sensacyjny;Wielka Brytania
+War;2007;103;Sensacyjny;USA
+Mad Max Beyond Thunderdome;1985;107;Sensacyjny;Australia
+Love and Other Disasters;2006;90;Komedia rom.;Francja
+Sahara;2005;124;Przygodowy;Hiszpania
+Le Gendarme se marie;1968;92;Komedia;Francja
+La haine;1995;96;Dramat;Francja
+Daylight;1996;115;Thriller;USA

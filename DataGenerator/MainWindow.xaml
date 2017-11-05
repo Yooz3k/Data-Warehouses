@@ -1,0 +1,68 @@
+﻿<Window x:Class="DataGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DataGenerator"
+        mc:Ignorable="d"
+        Title="Data Warehouses: Data Generator" Height="525" Width="702.333">
+    <Grid>
+        <TextBox x:Name="filmsAmountOfTextBox" HorizontalAlignment="Left" Height="19" Margin="23,10,0,0" TextWrapping="Wrap" Text="900" VerticalAlignment="Top" Width="51" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Button x:Name="filmsDownloadButton" Content="Pobierz tytuły filmów" HorizontalAlignment="Left" Margin="79,9,0,0" VerticalAlignment="Top" Width="144" Click="filmsDownloadButton_Click"/>
+        <ProgressBar x:Name="filmsDownloadProgressBar" Height="19" Margin="228,10,10,0" VerticalAlignment="Top"/>
+        <Button x:Name="filmsFileButton" Content="Plik z tytułami filmów" HorizontalAlignment="Left" Margin="79,34,0,0" VerticalAlignment="Top" Width="144" Click="filmsFileButton_Click"/>
+        <TextBlock x:Name="filmsFileTextBlock" HorizontalAlignment="Left" Margin="228,34,0,0" TextWrapping="Wrap" Text="filmy.txt" VerticalAlignment="Top" Height="20" Width="456"/>
+
+        <TextBox x:Name="peopleAmountOfTextBox" HorizontalAlignment="Left" Height="20" Margin="23,59,0,0" TextWrapping="Wrap" Text="500" VerticalAlignment="Top" Width="51" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Button x:Name="peopleDownloadButton" Content="Pobierz członków obsady" HorizontalAlignment="Left" Height="20" Margin="79,59,0,0" VerticalAlignment="Top" Width="144" Click="peopleDownloadButton_Click"/>
+        <ProgressBar x:Name="peopleDownloadProgressBar" Height="20" Margin="228,59,10,0" VerticalAlignment="Top"/>
+        <Button x:Name="peopleFileButton" Content="Plik z członkami obsady" HorizontalAlignment="Left" Margin="79,84,0,0" VerticalAlignment="Top" Width="144" Click="peopleFileButton_Click"/>
+        <TextBlock x:Name="peopleFileTextBlock" HorizontalAlignment="Left" Margin="228,84,0,0" TextWrapping="Wrap" Text="czlonkowie_obsady.txt" VerticalAlignment="Top" Height="20" Width="456"/>
+
+        <Button x:Name="translationButton" Content="Plik ze spolszczeniami" HorizontalAlignment="Left" Margin="10,109,0,0" VerticalAlignment="Top" Width="142" Click="translationButton_Click"/>
+        <TextBlock x:Name="translationTextBlock" HorizontalAlignment="Left" Margin="157,109,0,0" TextWrapping="Wrap" Text="tlumaczenia.txt" VerticalAlignment="Top" Height="20" Width="527"/>
+
+        <Label x:Name="amountOfCinemasLabel" Content="Liczba sal" HorizontalAlignment="Left" Margin="10,326,0,0" VerticalAlignment="Top" Height="20" Padding="5,2"/>
+        <TextBox x:Name="amountOfCinemaTextBox" HorizontalAlignment="Left" Height="20" Margin="75,327,0,0" TextWrapping="Wrap" Text="8" VerticalAlignment="Top" Width="77"/>
+
+        <Button x:Name="jobsButton" Content="Plik z funkcjami obsady" HorizontalAlignment="Left" Margin="10,134,0,0" VerticalAlignment="Top" Width="142" Click="jobsButton_Click"/>
+        <TextBlock x:Name="jobsTextBlock" HorizontalAlignment="Left" Margin="157,134,0,0" TextWrapping="Wrap" Text="funkcje_obsady.txt" VerticalAlignment="Top" Height="20" Width="527"/>
+
+        <Button x:Name="distributorsButton" Content="Plik z dystrybutorami" HorizontalAlignment="Left" Margin="10,159,0,0" VerticalAlignment="Top" Width="142" Click="distributorsButton_Click"/>
+        <TextBlock x:Name="distributorsTextBlock" HorizontalAlignment="Left" Margin="157,159,0,0" TextWrapping="Wrap" Text="dystrybutorzy.txt" VerticalAlignment="Top" Height="20" Width="527"/>
+
+        <CheckBox x:Name="t2CheckBox" Content="T2" HorizontalAlignment="Left" Margin="439,286,0,0" VerticalAlignment="Top" IsChecked="True"/>
+
+        <Button x:Name="generatorButton" Content="Generuj dane" Margin="10,432,10,0" VerticalAlignment="Top" Click="generatorButton_Click"/>
+        <TextBox x:Name="hourOpenTextBox" HorizontalAlignment="Left" Height="23" Margin="157,211,0,0" TextWrapping="Wrap" Text="10" VerticalAlignment="Top" Width="50"/>
+        <TextBox x:Name="hourCloseTextBox" HorizontalAlignment="Left" Height="23" Margin="157,239,0,0" TextWrapping="Wrap" Text="2" VerticalAlignment="Top" Width="50"/>
+        <Label x:Name="hourOpenLabel" Content="Godzina otwarcia kina" HorizontalAlignment="Left" Margin="10,212,0,0" VerticalAlignment="Top" Padding="5,2"/>
+        <Label x:Name="hourCloseLabel" Content="Godzina zamkniecia kina" HorizontalAlignment="Left" Margin="10,239,0,0" VerticalAlignment="Top" Padding="5,2"/>
+        <TextBox x:Name="amountOfSeancesTextBox" HorizontalAlignment="Left" Height="23" Margin="282,269,0,0" TextWrapping="Wrap" Text="4" VerticalAlignment="Top" Width="66"/>
+        <Label x:Name="amountOfSeancesLabel" Content="Maksymalna liczba seansów na sali" HorizontalAlignment="Left" Margin="10,269,0,0" VerticalAlignment="Top" Padding="5,2"/>
+        <Label x:Name="amountOfOrdersLabel" Content="Zamówień dodatkowych (ponad liczbę filmów)" HorizontalAlignment="Left" Height="25" Margin="10,296,0,0" VerticalAlignment="Top" Padding="5,2"/>
+        <TextBox x:Name="amountOfOrdersTextBox" HorizontalAlignment="Left" Height="25" Margin="282,296,0,0" TextWrapping="Wrap" Text="100" VerticalAlignment="Top" Width="66"/>
+        <TextBox x:Name="filmsAmountOfT2TextBox" HorizontalAlignment="Left" Height="19" Margin="23,35,0,0" TextWrapping="Wrap" Text="100" VerticalAlignment="Top" Width="51" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <TextBox x:Name="peopleAmountOfT2TextBox" HorizontalAlignment="Left" Height="20" Margin="23,84,0,0" TextWrapping="Wrap" Text="100" VerticalAlignment="Top" Width="51" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Label x:Name="amountOfCinemasT2Label" Content="Liczba sal do aktualizacji" HorizontalAlignment="Left" Margin="432,321,0,0" VerticalAlignment="Top" Height="20" Padding="5,2" Width="170"/>
+        <TextBox x:Name="amountOfCinemaT2TextBox" Height="20" Margin="634,322,10,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top"/>
+
+        <Label x:Name="amountOfDistributorsT2Label" Content="Liczba dystrybutorów do aktualizacji" HorizontalAlignment="Left" Margin="432,346,0,0" VerticalAlignment="Top" Height="20" Padding="5,2" />
+        <TextBox x:Name="amountOfDistributorsT2TextBox" Height="20" Margin="634,347,10,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top"/>
+
+        <Label x:Name="amountOfOrdersT2Label" Content="Liczba zamówień do aktualizacji" HorizontalAlignment="Left" Margin="432,371,0,0" VerticalAlignment="Top" Height="20" Padding="5,2"/>
+        <TextBox x:Name="amountOfOrdersT2TextBox" Height="20" Margin="634,372,10,0" TextWrapping="Wrap" Text="3" VerticalAlignment="Top"/>
+        <Label x:Name="t0Label" Content="T0" HorizontalAlignment="Left" Margin="454,220,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="t0DatePicker" HorizontalAlignment="Left" Margin="482,222,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="t1Label" Content="T1" HorizontalAlignment="Left" Margin="454,250,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="t1DatePicker" HorizontalAlignment="Left" Margin="482,252,0,0" VerticalAlignment="Top"/>
+        <DatePicker x:Name="t2DatePicker" HorizontalAlignment="Left" Margin="482,281,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="t1FilmsLabel" Content="T1" HorizontalAlignment="Left" Margin="0,59,0,0" VerticalAlignment="Top" Padding="5,2"/>
+        <Label x:Name="t2FilmsLabel" Content="T2" HorizontalAlignment="Left" Margin="0,84,0,0" VerticalAlignment="Top" Padding="5,2"/>
+        <Label x:Name="t1PeopleLabel" Content="T1" HorizontalAlignment="Left" Margin="0,9,0,0" VerticalAlignment="Top" Padding="5,2"/>
+        <Label x:Name="t2PeopleLabel" Content="T2" HorizontalAlignment="Left" Margin="0,35,0,0" VerticalAlignment="Top" Padding="5,2"/>
+        <Label x:Name="statusLabel" Content="Generowanie danych może zająć nawet 5 minut!" Margin="10,458,10,0" VerticalAlignment="Top" Padding="5,2" HorizontalAlignment="Center"/>
+
+
+    </Grid>
+</Window>
